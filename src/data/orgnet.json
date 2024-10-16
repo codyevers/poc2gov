@@ -1,0 +1,5049 @@
+{
+  "edges": [
+    {
+      "source": "Aurora Water",
+      "target": "CO State Forest Service",
+      "value": 1
+    },
+    {
+      "source": "Aurora Water",
+      "target": "CO Water Conservation Board (CWCB)",
+      "value": 1
+    },
+    {
+      "source": "Aurora Water",
+      "target": "Coalition for the Upper South Platte",
+      "value": 1
+    },
+    {
+      "source": "Aurora Water",
+      "target": "Denver Water",
+      "value": 1
+    },
+    {
+      "source": "Aurora Water",
+      "target": "Jefferson Conservation District",
+      "value": 1
+    },
+    {
+      "source": "Aurora Water",
+      "target": "South Platte Enhancement Board (SPEB)",
+      "value": 1
+    },
+    {
+      "source": "Aurora Water",
+      "target": "Stewardship West",
+      "value": 1
+    },
+    {
+      "source": "Aurora Water",
+      "target": "United States Forest Service",
+      "value": 1
+    },
+    {
+      "source": "Aurora Water",
+      "target": "Upper South Platte Partnership USPP",
+      "value": 1
+    },
+    {
+      "source": "Big Thompson Watershed Coalition",
+      "target": "City of Greeley",
+      "value": 1
+    },
+    {
+      "source": "Big Thompson Watershed Coalition",
+      "target": "City of Loveland",
+      "value": 1
+    },
+    {
+      "source": "Big Thompson Watershed Coalition",
+      "target": "Coalition For the Poudre River Watershed",
+      "value": 1
+    },
+    {
+      "source": "Big Thompson Watershed Coalition",
+      "target": "Colorado Water Conservation Board",
+      "value": 1
+    },
+    {
+      "source": "Big Thompson Watershed Coalition",
+      "target": "Larimer Conservation District",
+      "value": 1
+    },
+    {
+      "source": "Big Thompson Watershed Coalition",
+      "target": "Larimer County Office of Emergency Management",
+      "value": 1
+    },
+    {
+      "source": "Big Thompson Watershed Coalition",
+      "target": "National Forest Foundation",
+      "value": 1
+    },
+    {
+      "source": "Big Thompson Watershed Coalition",
+      "target": "Peaks to People Water Fund",
+      "value": 1
+    },
+    {
+      "source": "Big Thompson Watershed Coalition",
+      "target": "United States Forest Service",
+      "value": 1
+    },
+    {
+      "source": "Boulder County",
+      "target": "Boulder County Fire Protection Districts",
+      "value": 1
+    },
+    {
+      "source": "Boulder County",
+      "target": "Boulder County Fireshed",
+      "value": 2
+    },
+    {
+      "source": "Boulder County",
+      "target": "Boulder County Office of Disaster Management",
+      "value": 1
+    },
+    {
+      "source": "Boulder County",
+      "target": "Boulder RD, Arapahoe Roosevelt NF, USFS",
+      "value": 1
+    },
+    {
+      "source": "Boulder County",
+      "target": "Boulder Valley and Longmont Conservation Districts",
+      "value": 2
+    },
+    {
+      "source": "Boulder County",
+      "target": "Boulder Watershed Collective",
+      "value": 2
+    },
+    {
+      "source": "Boulder County",
+      "target": "Colorado Department of Natural Resources",
+      "value": 1
+    },
+    {
+      "source": "Boulder County",
+      "target": "Colorado State Forest Service",
+      "value": 1
+    },
+    {
+      "source": "Boulder County",
+      "target": "Colorado State Forest Service- Boulder",
+      "value": 1
+    },
+    {
+      "source": "Boulder County",
+      "target": "Municipalities-incorporated and unicorporated",
+      "value": 1
+    },
+    {
+      "source": "Boulder County",
+      "target": "Northern Colorado Fireshed Collaborative",
+      "value": 2
+    },
+    {
+      "source": "Boulder County",
+      "target": "Saint Vrain Forest Health Partnership",
+      "value": 1
+    },
+    {
+      "source": "Boulder County",
+      "target": "The Watershed Center",
+      "value": 2
+    },
+    {
+      "source": "Boulder County",
+      "target": "United States Forest Service-ARP",
+      "value": 1
+    },
+    {
+      "source": "Boulder County",
+      "target": "United States Forest Service-Boulder Ranger District",
+      "value": 1
+    },
+    {
+      "source": "Boulder County Fire Protection Districts",
+      "target": "Boulder County Parks and Open Space",
+      "value": 1
+    },
+    {
+      "source": "Boulder County Fire Protection Districts",
+      "target": "Boulder County Sheriff Fire Management Office",
+      "value": 1
+    },
+    {
+      "source": "Boulder County Fire Protection Districts",
+      "target": "Boulder Fire - Rescue",
+      "value": 1
+    },
+    {
+      "source": "Boulder County Fire Protection Districts",
+      "target": "Boulder Mountain Fire Protection District",
+      "value": 1
+    },
+    {
+      "source": "Boulder County Fire Protection Districts",
+      "target": "Wildfire Partners",
+      "value": 1
+    },
+    {
+      "source": "Boulder County Fireshed",
+      "target": "Boulder County",
+      "value": 1
+    },
+    {
+      "source": "Boulder County Fireshed",
+      "target": "Boulder Valley and Longmont Conservation Districts",
+      "value": 1
+    },
+    {
+      "source": "Boulder County Fireshed",
+      "target": "Boulder Watershed Collective",
+      "value": 1
+    },
+    {
+      "source": "Boulder County Fireshed",
+      "target": "City of Boulder",
+      "value": 1
+    },
+    {
+      "source": "Boulder County Fireshed",
+      "target": "Colorado Forest Collaboratives Network",
+      "value": 1
+    },
+    {
+      "source": "Boulder County Fireshed",
+      "target": "Colorado Forest Restoration Institute",
+      "value": 1
+    },
+    {
+      "source": "Boulder County Fireshed",
+      "target": "National Forest Foundation",
+      "value": 1
+    },
+    {
+      "source": "Boulder County Fireshed",
+      "target": "Northern Colorado Fireshed Collaborative",
+      "value": 1
+    },
+    {
+      "source": "Boulder County Fireshed",
+      "target": "The Watershed Center",
+      "value": 1
+    },
+    {
+      "source": "Boulder County Fireshed",
+      "target": "United States Forest Service",
+      "value": 1
+    },
+    {
+      "source": "Boulder County Fireshed: Boulder Wildfire Partners, Boulder Watershed Collective, Boulder Fire Rescue",
+      "target": "Boulder County Wildfire Partners",
+      "value": 1
+    },
+    {
+      "source": "Boulder County Fireshed: Boulder Wildfire Partners, Boulder Watershed Collective, Boulder Fire Rescue",
+      "target": "Boulder Office of Disaster Management",
+      "value": 1
+    },
+    {
+      "source": "Boulder County Fireshed: Boulder Wildfire Partners, Boulder Watershed Collective, Boulder Fire Rescue",
+      "target": "Boulder Open Space and Mountain Parks",
+      "value": 1
+    },
+    {
+      "source": "Boulder County Fireshed: Boulder Wildfire Partners, Boulder Watershed Collective, Boulder Fire Rescue",
+      "target": "Boulder Watershed Collective",
+      "value": 1
+    },
+    {
+      "source": "Boulder County Fireshed: Boulder Wildfire Partners, Boulder Watershed Collective, Boulder Fire Rescue",
+      "target": "Colorado State Forest Service",
+      "value": 1
+    },
+    {
+      "source": "Boulder County Fireshed: Boulder Wildfire Partners, Boulder Watershed Collective, Boulder Fire Rescue",
+      "target": "Devil's Thumb HOA",
+      "value": 1
+    },
+    {
+      "source": "Boulder County Fireshed: Boulder Wildfire Partners, Boulder Watershed Collective, Boulder Fire Rescue",
+      "target": "Fire Adapted Colorado",
+      "value": 1
+    },
+    {
+      "source": "Boulder County Fireshed: Boulder Wildfire Partners, Boulder Watershed Collective, Boulder Fire Rescue",
+      "target": "Wonderland Hills IV HOA",
+      "value": 1
+    },
+    {
+      "source": "Boulder County Wildfire Partners",
+      "target": "Boulder County Fire Protection Districts",
+      "value": 1
+    },
+    {
+      "source": "Boulder County Wildfire Partners",
+      "target": "Boulder County Office of Disaster Management",
+      "value": 1
+    },
+    {
+      "source": "Boulder County Wildfire Partners",
+      "target": "Boulder County Parks and Open Space",
+      "value": 1
+    },
+    {
+      "source": "Boulder County Wildfire Partners",
+      "target": "Boulder County Sheriff's office",
+      "value": 1
+    },
+    {
+      "source": "Boulder County Wildfire Partners",
+      "target": "City of Boulder Fire & Rescue",
+      "value": 1
+    },
+    {
+      "source": "Boulder County Wildfire Partners",
+      "target": "Colorado State Forest Service",
+      "value": 1
+    },
+    {
+      "source": "Boulder County Wildfire Partners",
+      "target": "The Boulder Watershed Collective",
+      "value": 1
+    },
+    {
+      "source": "Boulder County Wildfire Partners",
+      "target": "The USFS Boulder Ranger District",
+      "value": 1
+    },
+    {
+      "source": "Boulder County Wildfire Partners",
+      "target": "The Watershed Center",
+      "value": 1
+    },
+    {
+      "source": "Boulder Valley and Longmont Conservation District",
+      "target": "Boulder County",
+      "value": 1
+    },
+    {
+      "source": "Boulder Valley and Longmont Conservation District",
+      "target": "Boulder Watershed Collective",
+      "value": 1
+    },
+    {
+      "source": "Boulder Valley and Longmont Conservation District",
+      "target": "Colorado Forest Restoration Institute",
+      "value": 1
+    },
+    {
+      "source": "Boulder Valley and Longmont Conservation District",
+      "target": "Colorado State Forest Service",
+      "value": 1
+    },
+    {
+      "source": "Boulder Valley and Longmont Conservation District",
+      "target": "Jefferson Conservation District",
+      "value": 1
+    },
+    {
+      "source": "Boulder Valley and Longmont Conservation District",
+      "target": "Larimer Conservation District",
+      "value": 1
+    },
+    {
+      "source": "Boulder Valley and Longmont Conservation District",
+      "target": "Lefthand Fire Protection District",
+      "value": 1
+    },
+    {
+      "source": "Boulder Valley and Longmont Conservation District",
+      "target": "Natural Resources Conservation Service (NRCS)",
+      "value": 1
+    },
+    {
+      "source": "Boulder Valley and Longmont Conservation District",
+      "target": "The Watershed Center",
+      "value": 1
+    },
+    {
+      "source": "Boulder Valley and Longmont Conservation Districts",
+      "target": "Boulder County",
+      "value": 1
+    },
+    {
+      "source": "Boulder Valley and Longmont Conservation Districts",
+      "target": "Boulder Watershed Collective",
+      "value": 1
+    },
+    {
+      "source": "Boulder Valley and Longmont Conservation Districts",
+      "target": "Colorado State Forest Service",
+      "value": 1
+    },
+    {
+      "source": "Boulder Valley and Longmont Conservation Districts",
+      "target": "Jefferson Conservation District",
+      "value": 1
+    },
+    {
+      "source": "Boulder Valley and Longmont Conservation Districts",
+      "target": "Natural Resources Conservation Service (NRCS)",
+      "value": 1
+    },
+    {
+      "source": "Boulder Valley and Longmont Conservation Districts",
+      "target": "The Watershed Center",
+      "value": 1
+    },
+    {
+      "source": "Center for Collaborative Conservation",
+      "target": "Big Thompson Watershed Coalition",
+      "value": 1
+    },
+    {
+      "source": "Center for Collaborative Conservation",
+      "target": "Boulder County Fireshed",
+      "value": 1
+    },
+    {
+      "source": "Center for Collaborative Conservation",
+      "target": "Coalition For the Poudre River Watershed",
+      "value": 1
+    },
+    {
+      "source": "Center for Collaborative Conservation",
+      "target": "Colorado Forest Restoration Institute",
+      "value": 1
+    },
+    {
+      "source": "Center for Collaborative Conservation",
+      "target": "Colorado State Forest Service",
+      "value": 1
+    },
+    {
+      "source": "Center for Collaborative Conservation",
+      "target": "Larimer Conservation District",
+      "value": 1
+    },
+    {
+      "source": "Center for Collaborative Conservation",
+      "target": "Northern Colorado Fireshed Collaborative",
+      "value": 1
+    },
+    {
+      "source": "Center for Collaborative Conservation",
+      "target": "St Vrain Watershed & Forest Health Partnership",
+      "value": 1
+    },
+    {
+      "source": "Center for Collaborative Conservation",
+      "target": "The Watershed Center",
+      "value": 1
+    },
+    {
+      "source": "City Parks: Denver Mountain Parks, Ft Collins Natural Areas",
+      "target": "Colorado Division of Fire Prevention and Control",
+      "value": 1
+    },
+    {
+      "source": "City Parks: Denver Mountain Parks, Ft Collins Natural Areas",
+      "target": "Colorado State Forest Service",
+      "value": 1
+    },
+    {
+      "source": "City Parks: Denver Mountain Parks, Ft Collins Natural Areas",
+      "target": "Conifer Wildland Divison",
+      "value": 1
+    },
+    {
+      "source": "City Parks: Denver Mountain Parks, Ft Collins Natural Areas",
+      "target": "Denver Water",
+      "value": 1
+    },
+    {
+      "source": "City Parks: Denver Mountain Parks, Ft Collins Natural Areas",
+      "target": "Evergreen Fire Rescue",
+      "value": 1
+    },
+    {
+      "source": "City Parks: Denver Mountain Parks, Ft Collins Natural Areas",
+      "target": "Jefferson Conservation District",
+      "value": 1
+    },
+    {
+      "source": "City Parks: Denver Mountain Parks, Ft Collins Natural Areas",
+      "target": "Jefferson County Open Space",
+      "value": 1
+    },
+    {
+      "source": "City Parks: Denver Mountain Parks, Ft Collins Natural Areas",
+      "target": "Jefferson County Sheriff's Office",
+      "value": 1
+    },
+    {
+      "source": "City Parks: Denver Mountain Parks, Ft Collins Natural Areas",
+      "target": "United States Forest Service",
+      "value": 1
+    },
+    {
+      "source": "City Parks: Denver Mountain Parks, Ft Collins Natural Areas",
+      "target": "Upper South Platte Partnership",
+      "value": 1
+    },
+    {
+      "source": "City of Boulder",
+      "target": "4-Mile Fire protection district",
+      "value": 1
+    },
+    {
+      "source": "City of Boulder",
+      "target": "Boulder Mountain Fire Protection District",
+      "value": 1
+    },
+    {
+      "source": "City of Boulder",
+      "target": "City of Boulder Fire & Rescue",
+      "value": 1
+    },
+    {
+      "source": "City of Boulder",
+      "target": "Colorado State Forest Service- Boulder",
+      "value": 1
+    },
+    {
+      "source": "City of Boulder",
+      "target": "National Center for Atmospheric Research (NCAR)",
+      "value": 1
+    },
+    {
+      "source": "City of Boulder",
+      "target": "National Institute of Standards and Technology",
+      "value": 1
+    },
+    {
+      "source": "City of Fort Collins, CO",
+      "target": "City of Greeley",
+      "value": 1
+    },
+    {
+      "source": "City of Fort Collins, CO",
+      "target": "City of Thornton",
+      "value": 1
+    },
+    {
+      "source": "City of Fort Collins, CO",
+      "target": "Coalition for the Poudre River Watershed",
+      "value": 1
+    },
+    {
+      "source": "City of Fort Collins, CO",
+      "target": "Colorado State Forest Service",
+      "value": 1
+    },
+    {
+      "source": "City of Fort Collins, CO",
+      "target": "Colorado State University",
+      "value": 1
+    },
+    {
+      "source": "City of Fort Collins, CO",
+      "target": "Larimer Conservation District",
+      "value": 1
+    },
+    {
+      "source": "City of Fort Collins, CO",
+      "target": "Northern Colorado Fireshed Collaborative",
+      "value": 1
+    },
+    {
+      "source": "City of Fort Collins, CO",
+      "target": "Northern Water",
+      "value": 1
+    },
+    {
+      "source": "City of Fort Collins, CO",
+      "target": "Rocky Mountain Research Station",
+      "value": 1
+    },
+    {
+      "source": "City of Fort Collins, CO",
+      "target": "Soldier Canyon Drinking Water Authority",
+      "value": 1
+    },
+    {
+      "source": "City of Golden",
+      "target": "Boulder Watershed Collective",
+      "value": 1
+    },
+    {
+      "source": "City of Golden",
+      "target": "City of Golden",
+      "value": 1
+    },
+    {
+      "source": "City of Golden",
+      "target": "Clear Creek County",
+      "value": 1
+    },
+    {
+      "source": "City of Golden",
+      "target": "Clear Creek Fire Authority",
+      "value": 1
+    },
+    {
+      "source": "City of Golden",
+      "target": "Coalitions and Collaboratives",
+      "value": 1
+    },
+    {
+      "source": "City of Golden",
+      "target": "Colorado State University - Gilpin County Extension",
+      "value": 1
+    },
+    {
+      "source": "City of Golden",
+      "target": "Timberline Fire Protection District",
+      "value": 1
+    },
+    {
+      "source": "City of Golden",
+      "target": "Trout Unlimited",
+      "value": 1
+    },
+    {
+      "source": "City of Golden",
+      "target": "Upper Clear Creek Watershed Association",
+      "value": 1
+    },
+    {
+      "source": "City of Golden",
+      "target": "Upper South Platte Partnership",
+      "value": 1
+    },
+    {
+      "source": "City of Greeley",
+      "target": "Big Thompson Watershed Coalition",
+      "value": 1
+    },
+    {
+      "source": "City of Greeley",
+      "target": "CASA of Larimer County",
+      "value": 1
+    },
+    {
+      "source": "City of Greeley",
+      "target": "City of Boulder",
+      "value": 1
+    },
+    {
+      "source": "City of Greeley",
+      "target": "City of Fort Collins",
+      "value": 2
+    },
+    {
+      "source": "City of Greeley",
+      "target": "City of Longmont",
+      "value": 1
+    },
+    {
+      "source": "City of Greeley",
+      "target": "City of Loveland",
+      "value": 1
+    },
+    {
+      "source": "City of Greeley",
+      "target": "City of Thornton",
+      "value": 1
+    },
+    {
+      "source": "City of Greeley",
+      "target": "Coalition for the Poudre River Watershed",
+      "value": 1
+    },
+    {
+      "source": "City of Greeley",
+      "target": "Colorado Water Conservation Board",
+      "value": 1
+    },
+    {
+      "source": "City of Greeley",
+      "target": "National Forest Foundation",
+      "value": 1
+    },
+    {
+      "source": "City of Greeley",
+      "target": "Natural Resources Conservation Service (NRCS)",
+      "value": 1
+    },
+    {
+      "source": "City of Greeley",
+      "target": "Northern Water",
+      "value": 1
+    },
+    {
+      "source": "City of Greeley",
+      "target": "Northern Water Conservancy District",
+      "value": 1
+    },
+    {
+      "source": "City of Greeley",
+      "target": "Soldier Canyon Water Authority",
+      "value": 1
+    },
+    {
+      "source": "City of Greeley",
+      "target": "Town of Estes Park",
+      "value": 1
+    },
+    {
+      "source": "City of Greeley",
+      "target": "United States Forest Service",
+      "value": 1
+    },
+    {
+      "source": "City of Loveland, CO",
+      "target": "Big Thompson Watershed Coalition",
+      "value": 1
+    },
+    {
+      "source": "City of Loveland, CO",
+      "target": "City of Greeley",
+      "value": 1
+    },
+    {
+      "source": "City of Loveland, CO",
+      "target": "Larimer Conservation District",
+      "value": 1
+    },
+    {
+      "source": "City of Loveland, CO",
+      "target": "Northern Water",
+      "value": 1
+    },
+    {
+      "source": "City of Loveland, CO",
+      "target": "United States Forest Service",
+      "value": 1
+    },
+    {
+      "source": "City of Loveland, CO",
+      "target": "United States Geological Survey",
+      "value": 1
+    },
+    {
+      "source": "Clear Creek County Sheriff",
+      "target": "Clear Creek Fire Authority",
+      "value": 1
+    },
+    {
+      "source": "Clear Creek County Sheriff",
+      "target": "Evergreen Fire Protection District",
+      "value": 1
+    },
+    {
+      "source": "Clear Creek Fire Authority",
+      "target": "Clear Creek County",
+      "value": 1
+    },
+    {
+      "source": "Clear Creek Fire Authority",
+      "target": "Clear Creek County Sheriff",
+      "value": 1
+    },
+    {
+      "source": "Coalition For the Upper South Platte",
+      "target": "Colorado Springs Utilities",
+      "value": 1
+    },
+    {
+      "source": "Coalition For the Upper South Platte",
+      "target": "Colorado State Forest Service",
+      "value": 1
+    },
+    {
+      "source": "Coalition For the Upper South Platte",
+      "target": "Park County Government",
+      "value": 1
+    },
+    {
+      "source": "Coalition For the Upper South Platte",
+      "target": "Teller County government",
+      "value": 1
+    },
+    {
+      "source": "Coalition For the Upper South Platte",
+      "target": "United States Forest Service - South Park Ranger District",
+      "value": 1
+    },
+    {
+      "source": "Coalition for the Poudre River Watershed",
+      "target": "Big Thompson Watershed Coalition",
+      "value": 1
+    },
+    {
+      "source": "Coalition for the Poudre River Watershed",
+      "target": "Canyon Lakes RD, Arapaho Roosevelt NF",
+      "value": 1
+    },
+    {
+      "source": "Coalition for the Poudre River Watershed",
+      "target": "City of Fort Collins",
+      "value": 2
+    },
+    {
+      "source": "Coalition for the Poudre River Watershed",
+      "target": "City of Greeley",
+      "value": 2
+    },
+    {
+      "source": "Coalition for the Poudre River Watershed",
+      "target": "Colorado Forest Restoration Institute",
+      "value": 2
+    },
+    {
+      "source": "Coalition for the Poudre River Watershed",
+      "target": "Colorado State Forest Service",
+      "value": 3
+    },
+    {
+      "source": "Coalition for the Poudre River Watershed",
+      "target": "Colorado Water Conservation Board",
+      "value": 1
+    },
+    {
+      "source": "Coalition for the Poudre River Watershed",
+      "target": "Larimer Conservation District",
+      "value": 3
+    },
+    {
+      "source": "Coalition for the Poudre River Watershed",
+      "target": "Larimer County Conservation Corps",
+      "value": 2
+    },
+    {
+      "source": "Coalition for the Poudre River Watershed",
+      "target": "Larimer County Office of Emergency Management",
+      "value": 3
+    },
+    {
+      "source": "Coalition for the Poudre River Watershed",
+      "target": "National Forest Foundation",
+      "value": 2
+    },
+    {
+      "source": "Coalition for the Poudre River Watershed",
+      "target": "Northern Colorado Fireshed Collaborative",
+      "value": 1
+    },
+    {
+      "source": "Coalition for the Poudre River Watershed",
+      "target": "The Ember Alliance",
+      "value": 3
+    },
+    {
+      "source": "Coalition for the Poudre River Watershed",
+      "target": "The Nature Conservancy in Colorado",
+      "value": 1
+    },
+    {
+      "source": "Coalition for the Poudre River Watershed",
+      "target": "United States Forest Service",
+      "value": 2
+    },
+    {
+      "source": "Coalitions and Collaboratives",
+      "target": "Big Thompson Watershed Coalition",
+      "value": 1
+    },
+    {
+      "source": "Coalitions and Collaboratives",
+      "target": "Boulder Watershed Collective",
+      "value": 1
+    },
+    {
+      "source": "Coalitions and Collaboratives",
+      "target": "Colorado Forest Restoration Institute",
+      "value": 1
+    },
+    {
+      "source": "Coalitions and Collaboratives",
+      "target": "Colorado Springs Fire Department",
+      "value": 1
+    },
+    {
+      "source": "Coalitions and Collaboratives",
+      "target": "Colorado Springs Utilities",
+      "value": 1
+    },
+    {
+      "source": "Coalitions and Collaboratives",
+      "target": "Denver Water",
+      "value": 1
+    },
+    {
+      "source": "Coalitions and Collaboratives",
+      "target": "Fire Adapted Colorado",
+      "value": 1
+    },
+    {
+      "source": "Coalitions and Collaboratives",
+      "target": "Northern Colorado Fireshed Collaborative",
+      "value": 1
+    },
+    {
+      "source": "Coalitions and Collaboratives",
+      "target": "Pike National Forest",
+      "value": 1
+    },
+    {
+      "source": "Coalitions and Collaboratives",
+      "target": "Upper South Platte Partnership",
+      "value": 1
+    },
+    {
+      "source": "Colorado Department of Natural Resources",
+      "target": "CO Department of Corrections",
+      "value": 1
+    },
+    {
+      "source": "Colorado Department of Natural Resources",
+      "target": "Colorado Forest Restoration Institute",
+      "value": 1
+    },
+    {
+      "source": "Colorado Department of Natural Resources",
+      "target": "Colorado Springs Utilities",
+      "value": 1
+    },
+    {
+      "source": "Colorado Department of Natural Resources",
+      "target": "Colorado State Forest Service",
+      "value": 1
+    },
+    {
+      "source": "Colorado Department of Natural Resources",
+      "target": "Colorado Water Conservation Board",
+      "value": 1
+    },
+    {
+      "source": "Colorado Department of Natural Resources",
+      "target": "Colorado Youth Corps Association",
+      "value": 1
+    },
+    {
+      "source": "Colorado Department of Natural Resources",
+      "target": "Denver Water",
+      "value": 1
+    },
+    {
+      "source": "Colorado Department of Natural Resources",
+      "target": "Larimer County Conservation Corps",
+      "value": 1
+    },
+    {
+      "source": "Colorado Department of Natural Resources",
+      "target": "Larimer County Office of Emergency Management",
+      "value": 1
+    },
+    {
+      "source": "Colorado Department of Natural Resources",
+      "target": "Mile High Youth Corps",
+      "value": 1
+    },
+    {
+      "source": "Colorado Forest Restoration Institute",
+      "target": "Arapaho & Roosevelt National Forest",
+      "value": 2
+    },
+    {
+      "source": "Colorado Forest Restoration Institute",
+      "target": "Boulder County Open Space",
+      "value": 1
+    },
+    {
+      "source": "Colorado Forest Restoration Institute",
+      "target": "Boulder Ranger District",
+      "value": 1
+    },
+    {
+      "source": "Colorado Forest Restoration Institute",
+      "target": "Center for Collaborative Conservation",
+      "value": 1
+    },
+    {
+      "source": "Colorado Forest Restoration Institute",
+      "target": "City Parks: Denver Mountain Parks, Ft Collins Natural Areas",
+      "value": 1
+    },
+    {
+      "source": "Colorado Forest Restoration Institute",
+      "target": "Coalition For the Poudre River Watershed",
+      "value": 1
+    },
+    {
+      "source": "Colorado Forest Restoration Institute",
+      "target": "Coalitions and Collaboratives",
+      "value": 1
+    },
+    {
+      "source": "Colorado Forest Restoration Institute",
+      "target": "Colorado Department of Natural Resources",
+      "value": 1
+    },
+    {
+      "source": "Colorado Forest Restoration Institute",
+      "target": "Colorado State Forest Service",
+      "value": 3
+    },
+    {
+      "source": "Colorado Forest Restoration Institute",
+      "target": "Colorado State Forest Service - NE",
+      "value": 1
+    },
+    {
+      "source": "Colorado Forest Restoration Institute",
+      "target": "Colorado State University",
+      "value": 1
+    },
+    {
+      "source": "Colorado Forest Restoration Institute",
+      "target": "County Open Space: Larimer, Boulder, Jefferson",
+      "value": 1
+    },
+    {
+      "source": "Colorado Forest Restoration Institute",
+      "target": "Fire Protection Districts: Lefthand, Evergreen, Elk Creek, Inter Canyon, West Metro, Platte Canyon",
+      "value": 1
+    },
+    {
+      "source": "Colorado Forest Restoration Institute",
+      "target": "Jefferson County Open space",
+      "value": 1
+    },
+    {
+      "source": "Colorado Forest Restoration Institute",
+      "target": "Larimer County",
+      "value": 1
+    },
+    {
+      "source": "Colorado Forest Restoration Institute",
+      "target": "Larimer County Conservation District",
+      "value": 1
+    },
+    {
+      "source": "Colorado Forest Restoration Institute",
+      "target": "NRCS Conservation Districts: Jefferson CD, Boulder Valley Longmont CD, Larimer CD",
+      "value": 1
+    },
+    {
+      "source": "Colorado Forest Restoration Institute",
+      "target": "National Forest Foundation",
+      "value": 1
+    },
+    {
+      "source": "Colorado Forest Restoration Institute",
+      "target": "Northern Colorado Fireshed Collaborative",
+      "value": 2
+    },
+    {
+      "source": "Colorado Forest Restoration Institute",
+      "target": "Peaks to People Water Fund",
+      "value": 1
+    },
+    {
+      "source": "Colorado Forest Restoration Institute",
+      "target": "Pike- San Isabel National Forest",
+      "value": 2
+    },
+    {
+      "source": "Colorado Forest Restoration Institute",
+      "target": "Pike-San Isabel NF and Arapahoe Roosevelt NF, USFS",
+      "value": 1
+    },
+    {
+      "source": "Colorado Forest Restoration Institute",
+      "target": "South Platte Ranger District",
+      "value": 1
+    },
+    {
+      "source": "Colorado Forest Restoration Institute",
+      "target": "The Ember Alliance",
+      "value": 1
+    },
+    {
+      "source": "Colorado Forest Restoration Institute",
+      "target": "The Nature Conservancy in Colorado",
+      "value": 1
+    },
+    {
+      "source": "Colorado Forest Restoration Institute",
+      "target": "The Watershed Center",
+      "value": 1
+    },
+    {
+      "source": "Colorado Forest Restoration Institute",
+      "target": "United States Forest Service - ARP",
+      "value": 1
+    },
+    {
+      "source": "Colorado Forest Restoration Institute",
+      "target": "United States Forest Service Region 2",
+      "value": 1
+    },
+    {
+      "source": "Colorado Forest Restoration Institute",
+      "target": "Watershed Center",
+      "value": 1
+    },
+    {
+      "source": "Colorado Forest Restoration Institute",
+      "target": "Watershed Groups: Coalition for the Poudre River Watershed, the Watershed Center, Coalition for the Upper South Platte",
+      "value": 1
+    },
+    {
+      "source": "Colorado Parks & Wildlife",
+      "target": "City of Colorado Springs",
+      "value": 1
+    },
+    {
+      "source": "Colorado Parks & Wildlife",
+      "target": "City of Fort Collins",
+      "value": 1
+    },
+    {
+      "source": "Colorado Parks & Wildlife",
+      "target": "Coalition For the Poudre River Watershed",
+      "value": 1
+    },
+    {
+      "source": "Colorado Parks & Wildlife",
+      "target": "Coalition For the Upper South Platte",
+      "value": 1
+    },
+    {
+      "source": "Colorado Parks & Wildlife",
+      "target": "Colorado State Forest Service",
+      "value": 1
+    },
+    {
+      "source": "Colorado Parks & Wildlife",
+      "target": "The Nature Conservancy in Colorado",
+      "value": 1
+    },
+    {
+      "source": "Colorado Parks & Wildlife",
+      "target": "US Department of Defense",
+      "value": 1
+    },
+    {
+      "source": "Colorado State Forest Service - Boulder Field Office",
+      "target": "Boulder County",
+      "value": 1
+    },
+    {
+      "source": "Colorado State Forest Service - Boulder Field Office",
+      "target": "Boulder County Open Space",
+      "value": 1
+    },
+    {
+      "source": "Colorado State Forest Service - Boulder Field Office",
+      "target": "Boulder Mountain Fire Protection District",
+      "value": 1
+    },
+    {
+      "source": "Colorado State Forest Service - Boulder Field Office",
+      "target": "Boulder Watershed Collective",
+      "value": 2
+    },
+    {
+      "source": "Colorado State Forest Service - Boulder Field Office",
+      "target": "City of Boulder",
+      "value": 1
+    },
+    {
+      "source": "Colorado State Forest Service - Boulder Field Office",
+      "target": "City of Longmont",
+      "value": 2
+    },
+    {
+      "source": "Colorado State Forest Service - Boulder Field Office",
+      "target": "Colorado Parks and WIildlife",
+      "value": 1
+    },
+    {
+      "source": "Colorado State Forest Service - Boulder Field Office",
+      "target": "Colorado State Parks",
+      "value": 1
+    },
+    {
+      "source": "Colorado State Forest Service - Boulder Field Office",
+      "target": "Denver Water",
+      "value": 1
+    },
+    {
+      "source": "Colorado State Forest Service - Boulder Field Office",
+      "target": "Four Mile Fire Protection District",
+      "value": 1
+    },
+    {
+      "source": "Colorado State Forest Service - Boulder Field Office",
+      "target": "Lefthand Fire Protection District",
+      "value": 1
+    },
+    {
+      "source": "Colorado State Forest Service - Boulder Field Office",
+      "target": "The Watershed Center",
+      "value": 1
+    },
+    {
+      "source": "Colorado State Forest Service - Fort Collins Field Office",
+      "target": "Big Thompson Watershed Coalition",
+      "value": 1
+    },
+    {
+      "source": "Colorado State Forest Service - Fort Collins Field Office",
+      "target": "Canyon Lakes RD, Arapahoe Roosevelt NF, USFS",
+      "value": 1
+    },
+    {
+      "source": "Colorado State Forest Service - Fort Collins Field Office",
+      "target": "Colorado Forest Restoration Institute",
+      "value": 1
+    },
+    {
+      "source": "Colorado State Forest Service - Fort Collins Field Office",
+      "target": "Colorado Parks and Wildlife",
+      "value": 1
+    },
+    {
+      "source": "Colorado State Forest Service - Fort Collins Field Office",
+      "target": "Estes Valley Watershed Coalition",
+      "value": 1
+    },
+    {
+      "source": "Colorado State Forest Service - Fort Collins Field Office",
+      "target": "Larimer Conservation District",
+      "value": 1
+    },
+    {
+      "source": "Colorado State Forest Service - Fort Collins Field Office",
+      "target": "Larimer County DNR, OEM, Sherriff's Office",
+      "value": 1
+    },
+    {
+      "source": "Colorado State Forest Service - Fort Collins Field Office",
+      "target": "Most Fire Departments within Larimer County",
+      "value": 1
+    },
+    {
+      "source": "Colorado State Forest Service - Fort Collins Field Office",
+      "target": "Northern Water",
+      "value": 1
+    },
+    {
+      "source": "Colorado State Forest Service - Fort Collins Field Office",
+      "target": "Peaks to People Water Fund",
+      "value": 1
+    },
+    {
+      "source": "Colorado State Forest Service - NE",
+      "target": "Colorado Department of Natural Resources",
+      "value": 1
+    },
+    {
+      "source": "Colorado State Forest Service - NE",
+      "target": "Colorado Springs Utilities",
+      "value": 1
+    },
+    {
+      "source": "Colorado State Forest Service - NE",
+      "target": "Colorado State University - Center for Collaborative Conservation",
+      "value": 1
+    },
+    {
+      "source": "Colorado State Forest Service - NE",
+      "target": "Colorado State University - Colorado Forest Restoration Institute",
+      "value": 1
+    },
+    {
+      "source": "Colorado State Forest Service - NE",
+      "target": "Denver Water",
+      "value": 1
+    },
+    {
+      "source": "Colorado State Forest Service - NE",
+      "target": "The National Forest Foundation",
+      "value": 1
+    },
+    {
+      "source": "Colorado State Forest Service - NE",
+      "target": "The Nature Conservancy",
+      "value": 1
+    },
+    {
+      "source": "Colorado State Forest Service - NE",
+      "target": "United States Forest Service",
+      "value": 1
+    },
+    {
+      "source": "Colorado State Forest Service: Ft. Collins, Boulder, Golden, Salida, Woodland Park",
+      "target": "Aurora Water",
+      "value": 1
+    },
+    {
+      "source": "Colorado State Forest Service: Ft. Collins, Boulder, Golden, Salida, Woodland Park",
+      "target": "Colorado Forest Restoration Institute",
+      "value": 1
+    },
+    {
+      "source": "Colorado State Forest Service: Ft. Collins, Boulder, Golden, Salida, Woodland Park",
+      "target": "Conifer Wildland Division",
+      "value": 1
+    },
+    {
+      "source": "Colorado State Forest Service: Ft. Collins, Boulder, Golden, Salida, Woodland Park",
+      "target": "Denver Mountain Parks",
+      "value": 1
+    },
+    {
+      "source": "Colorado State Forest Service: Ft. Collins, Boulder, Golden, Salida, Woodland Park",
+      "target": "Denver Water",
+      "value": 1
+    },
+    {
+      "source": "Colorado State Forest Service: Ft. Collins, Boulder, Golden, Salida, Woodland Park",
+      "target": "Evergreen Fire Rescue",
+      "value": 1
+    },
+    {
+      "source": "Colorado State Forest Service: Ft. Collins, Boulder, Golden, Salida, Woodland Park",
+      "target": "Genesee Fire Protection District",
+      "value": 1
+    },
+    {
+      "source": "Colorado State Forest Service: Ft. Collins, Boulder, Golden, Salida, Woodland Park",
+      "target": "Jefferson Conservation District",
+      "value": 1
+    },
+    {
+      "source": "Colorado State Forest Service: Ft. Collins, Boulder, Golden, Salida, Woodland Park",
+      "target": "Jefferson County Open Space",
+      "value": 1
+    },
+    {
+      "source": "Colorado State Forest Service: Ft. Collins, Boulder, Golden, Salida, Woodland Park",
+      "target": "United States Forest Service",
+      "value": 1
+    },
+    {
+      "source": "Colorado State Forest Servicepie",
+      "target": "Aurora Water",
+      "value": 1
+    },
+    {
+      "source": "Colorado State Forest Servicepie",
+      "target": "Boulder County Fireshed",
+      "value": 1
+    },
+    {
+      "source": "Colorado State Forest Servicepie",
+      "target": "Boulder County Forest Collaborative",
+      "value": 1
+    },
+    {
+      "source": "Colorado State Forest Servicepie",
+      "target": "Boulder County government",
+      "value": 1
+    },
+    {
+      "source": "Colorado State Forest Servicepie",
+      "target": "Coalition For the Poudre River Watershed",
+      "value": 1
+    },
+    {
+      "source": "Colorado State Forest Servicepie",
+      "target": "Denver Water",
+      "value": 1
+    },
+    {
+      "source": "Colorado State Forest Servicepie",
+      "target": "Elk Creek Fire Protection District",
+      "value": 1
+    },
+    {
+      "source": "Colorado State Forest Servicepie",
+      "target": "Jefferson County Open Space",
+      "value": 1
+    },
+    {
+      "source": "Colorado State Forest Servicepie",
+      "target": "The Watershed Center",
+      "value": 1
+    },
+    {
+      "source": "Colorado State Forest Servicepie",
+      "target": "United States Forest Service South Platte Ranger District",
+      "value": 1
+    },
+    {
+      "source": "Colorado State University - Gilpin County Extension",
+      "target": "Coal Creek Canyon Fire Protection District",
+      "value": 1
+    },
+    {
+      "source": "Colorado State University - Gilpin County Extension",
+      "target": "Timberline Fire Protection District",
+      "value": 1
+    },
+    {
+      "source": "Colorado Water Conservation Board",
+      "target": "Arkansas River Watershed Collaborative",
+      "value": 1
+    },
+    {
+      "source": "Colorado Water Conservation Board",
+      "target": "Bear Creek Watershed Foundation",
+      "value": 1
+    },
+    {
+      "source": "Colorado Water Conservation Board",
+      "target": "Big Thompson Watershed Coalition",
+      "value": 1
+    },
+    {
+      "source": "Colorado Water Conservation Board",
+      "target": "Boulder Watershed Collective",
+      "value": 2
+    },
+    {
+      "source": "Colorado Water Conservation Board",
+      "target": "City of Fort Collins",
+      "value": 1
+    },
+    {
+      "source": "Colorado Water Conservation Board",
+      "target": "City of Greeley",
+      "value": 1
+    },
+    {
+      "source": "Colorado Water Conservation Board",
+      "target": "Coalition For the Poudre River Watershed",
+      "value": 1
+    },
+    {
+      "source": "Colorado Water Conservation Board",
+      "target": "Coalition for the Poudre River Watershed",
+      "value": 1
+    },
+    {
+      "source": "Colorado Water Conservation Board",
+      "target": "Coalitions and Collaboratives",
+      "value": 1
+    },
+    {
+      "source": "Colorado Water Conservation Board",
+      "target": "Colorado Springs Utilities",
+      "value": 2
+    },
+    {
+      "source": "Colorado Water Conservation Board",
+      "target": "Jefferson Conservation District",
+      "value": 1
+    },
+    {
+      "source": "Colorado Water Conservation Board",
+      "target": "Peaks to People Water Fund",
+      "value": 2
+    },
+    {
+      "source": "Colorado Water Conservation Board",
+      "target": "River Network",
+      "value": 1
+    },
+    {
+      "source": "Colorado Water Conservation Board",
+      "target": "The Watershed Center",
+      "value": 2
+    },
+    {
+      "source": "Douglas County Office of Emergency Management",
+      "target": "Denver Water",
+      "value": 1
+    },
+    {
+      "source": "Douglas County Office of Emergency Management",
+      "target": "South Metro Fire Rescue",
+      "value": 1
+    },
+    {
+      "source": "Douglas County Office of Emergency Management",
+      "target": "United States Forest Service",
+      "value": 1
+    },
+    {
+      "source": "Elk Creek Fire Protection District",
+      "target": "Colorado State Forest Service",
+      "value": 1
+    },
+    {
+      "source": "Elk Creek Fire Protection District",
+      "target": "Jefferson Conservation District",
+      "value": 1
+    },
+    {
+      "source": "Elk Creek Fire Protection District",
+      "target": "Jefferson County",
+      "value": 1
+    },
+    {
+      "source": "Elk Creek Fire Protection District",
+      "target": "United States Forest Service",
+      "value": 1
+    },
+    {
+      "source": "Estes Valley Fire District",
+      "target": "Estes Valley Watershed Coalition",
+      "value": 1
+    },
+    {
+      "source": "Estes Valley Fire District",
+      "target": "Larimer Conservation District",
+      "value": 1
+    },
+    {
+      "source": "Estes Valley Fire District",
+      "target": "Larimer County",
+      "value": 1
+    },
+    {
+      "source": "Estes Valley Fire District",
+      "target": "Town of Estes Park",
+      "value": 1
+    },
+    {
+      "source": "Estes Valley Fire District",
+      "target": "Wildfire Research Center-WiRe",
+      "value": 1
+    },
+    {
+      "source": "Estes Valley Land Trust",
+      "target": "Colorado State Forest Service",
+      "value": 1
+    },
+    {
+      "source": "Estes Valley Land Trust",
+      "target": "Colorado State University",
+      "value": 1
+    },
+    {
+      "source": "Estes Valley Land Trust",
+      "target": "Estes Park Fire Protection District",
+      "value": 1
+    },
+    {
+      "source": "Estes Valley Land Trust",
+      "target": "Estes Valley Watershed Coalition",
+      "value": 1
+    },
+    {
+      "source": "Estes Valley Land Trust",
+      "target": "Larimer County Conservation District",
+      "value": 1
+    },
+    {
+      "source": "Estes Valley Land Trust",
+      "target": "United States Forest Service",
+      "value": 1
+    },
+    {
+      "source": "Estes Valley Watershed Coalition",
+      "target": "Big Thompson Watershed Coalition",
+      "value": 1
+    },
+    {
+      "source": "Estes Valley Watershed Coalition",
+      "target": "Colorado State Forest Service",
+      "value": 1
+    },
+    {
+      "source": "Estes Valley Watershed Coalition",
+      "target": "Estes Park Middle School",
+      "value": 1
+    },
+    {
+      "source": "Estes Valley Watershed Coalition",
+      "target": "Estes Valley Fire Protection District",
+      "value": 1
+    },
+    {
+      "source": "Estes Valley Watershed Coalition",
+      "target": "Estes Valley Land Trust",
+      "value": 1
+    },
+    {
+      "source": "Estes Valley Watershed Coalition",
+      "target": "Larimer Conservation District",
+      "value": 1
+    },
+    {
+      "source": "Estes Valley Watershed Coalition",
+      "target": "Larimer County Sheriff's Office - ES Wildfire Partners Program",
+      "value": 1
+    },
+    {
+      "source": "Estes Valley Watershed Coalition",
+      "target": "Northern Colorado Fireshed Collaborative",
+      "value": 1
+    },
+    {
+      "source": "Estes Valley Watershed Coalition",
+      "target": "Northern Water",
+      "value": 1
+    },
+    {
+      "source": "Estes Valley Watershed Coalition",
+      "target": "Town of Estes Park",
+      "value": 1
+    },
+    {
+      "source": "Evergreen Fire",
+      "target": "Clear Creek County Sheriff",
+      "value": 1
+    },
+    {
+      "source": "Evergreen Fire",
+      "target": "Denver Mountain Parks",
+      "value": 1
+    },
+    {
+      "source": "Evergreen Fire",
+      "target": "Elk Creek Fire Protection District",
+      "value": 1
+    },
+    {
+      "source": "Evergreen Fire",
+      "target": "Genesee Fire Protection District",
+      "value": 1
+    },
+    {
+      "source": "Evergreen Fire",
+      "target": "Indian Hills Fire Rescue",
+      "value": 1
+    },
+    {
+      "source": "Evergreen Fire",
+      "target": "Jefferson County Open Space",
+      "value": 1
+    },
+    {
+      "source": "Evergreen Fire",
+      "target": "Jefferson County Sheriff's Office",
+      "value": 1
+    },
+    {
+      "source": "Evergreen Fire",
+      "target": "Upper South Platte Partnership",
+      "value": 1
+    },
+    {
+      "source": "Fire Adapted Colorado",
+      "target": "Boulder County Fireshed",
+      "value": 1
+    },
+    {
+      "source": "Fire Adapted Colorado",
+      "target": "Clear Creek Watershed and Forest Health Collaborative",
+      "value": 1
+    },
+    {
+      "source": "Fire Adapted Colorado",
+      "target": "Coalitions and Collaboratives",
+      "value": 1
+    },
+    {
+      "source": "Fire Adapted Colorado",
+      "target": "Colorado State Forest Service",
+      "value": 1
+    },
+    {
+      "source": "Fire Adapted Colorado",
+      "target": "Community Wildfire Planning Center",
+      "value": 1
+    },
+    {
+      "source": "Fire Adapted Colorado",
+      "target": "FPDs of Mountain Metro Wildfire Mitigation Council: Elk Creek, Inter-Canyon, Genessee, Evergreen, West Metro, South Metro, Arvada",
+      "value": 1
+    },
+    {
+      "source": "Fire Adapted Colorado",
+      "target": "Norther Colorado Fireshed Collaborative/ The Ember Alliance",
+      "value": 1
+    },
+    {
+      "source": "Fire Adapted Colorado",
+      "target": "Southern Rockies Fire Science Network",
+      "value": 1
+    },
+    {
+      "source": "Fire Adapted Colorado",
+      "target": "United States Forest Service - R2 Prevention & Mitigation",
+      "value": 1
+    },
+    {
+      "source": "Fire Adapted Colorado",
+      "target": "Wildfire Research Center-WiRe",
+      "value": 1
+    },
+    {
+      "source": "Fort Collins Natural Areas Dept",
+      "target": "n/a",
+      "value": 1
+    },
+    {
+      "source": "Genesee Fire Protection District",
+      "target": "Boulder Fire - Rescue",
+      "value": 1
+    },
+    {
+      "source": "Genesee Fire Protection District",
+      "target": "Evergreen Fire Rescue",
+      "value": 1
+    },
+    {
+      "source": "Genesee Fire Protection District",
+      "target": "Foothills Fire Rescue",
+      "value": 1
+    },
+    {
+      "source": "Genesee Fire Protection District",
+      "target": "HOA - Genesee Foundation",
+      "value": 1
+    },
+    {
+      "source": "Genesee Fire Protection District",
+      "target": "Indian Hills Fire Rescue",
+      "value": 1
+    },
+    {
+      "source": "Jefferson County Open Space",
+      "target": "Colorado Forest Restoration Institute",
+      "value": 1
+    },
+    {
+      "source": "Jefferson County Open Space",
+      "target": "Denver Mountain Parks",
+      "value": 1
+    },
+    {
+      "source": "Jefferson County Open Space",
+      "target": "Elk Creek Fire Protection District",
+      "value": 1
+    },
+    {
+      "source": "Jefferson County Open Space",
+      "target": "Evergreen Fire Rescue",
+      "value": 1
+    },
+    {
+      "source": "Jefferson County Open Space",
+      "target": "Inter-Canyon Fire Protection District",
+      "value": 1
+    },
+    {
+      "source": "Jefferson County Open Space",
+      "target": "Jefferson Conservation District",
+      "value": 1
+    },
+    {
+      "source": "Jefferson County Planning Department",
+      "target": "Conifer Area Council",
+      "value": 1
+    },
+    {
+      "source": "Jefferson County Planning Department",
+      "target": "Elk Creek Fire Protection District",
+      "value": 1
+    },
+    {
+      "source": "Jefferson County Planning Department",
+      "target": "Inter-Canyon Fire Protection District",
+      "value": 1
+    },
+    {
+      "source": "Jefferson County Planning Department",
+      "target": "Jefferson County Board of County Commissioners",
+      "value": 1
+    },
+    {
+      "source": "Jefferson County Planning Department",
+      "target": "Jefferson County Open Space",
+      "value": 1
+    },
+    {
+      "source": "Jefferson County Planning Department",
+      "target": "Jefferson County Planning Commission",
+      "value": 1
+    },
+    {
+      "source": "Jefferson County Planning Department",
+      "target": "Jefferson County Sheriff's Office",
+      "value": 1
+    },
+    {
+      "source": "Jefferson County Planning Department",
+      "target": "Jefferson County Transportation & Engineering",
+      "value": 1
+    },
+    {
+      "source": "Jefferson County Planning Department",
+      "target": "Jefferson County Wildfire Commission",
+      "value": 1
+    },
+    {
+      "source": "Larimer Conservation District",
+      "target": "Big Thompson Watershed Coalition",
+      "value": 1
+    },
+    {
+      "source": "Larimer Conservation District",
+      "target": "Coalition For the Poudre River Watershed",
+      "value": 1
+    },
+    {
+      "source": "Larimer Conservation District",
+      "target": "Colorado State Forest Service - Fort Collins",
+      "value": 1
+    },
+    {
+      "source": "Larimer Conservation District",
+      "target": "Estes Valley Watershed Coalition",
+      "value": 1
+    },
+    {
+      "source": "Larimer Conservation District",
+      "target": "Larimer County Office of Emergency Management",
+      "value": 1
+    },
+    {
+      "source": "Larimer Conservation District",
+      "target": "National Forest Foundation",
+      "value": 1
+    },
+    {
+      "source": "Larimer Conservation District",
+      "target": "Peaks to People Water Fund",
+      "value": 1
+    },
+    {
+      "source": "Larimer Conservation District",
+      "target": "The Nature Conservancy in Colorado",
+      "value": 1
+    },
+    {
+      "source": "Larimer Conservation District",
+      "target": "USDA Natural Resources Conservation Service - Fort Collins",
+      "value": 1
+    },
+    {
+      "source": "Larimer Conservation District",
+      "target": "United States Forest Service - Arapahoe Roosevelt",
+      "value": 1
+    },
+    {
+      "source": "Larimer County Conservation Corps",
+      "target": "Big Thompson Watershed Coalition",
+      "value": 1
+    },
+    {
+      "source": "Larimer County Conservation Corps",
+      "target": "Boulder Moutain Fire Protectin District",
+      "value": 1
+    },
+    {
+      "source": "Larimer County Conservation Corps",
+      "target": "Boulder Watershed Collective",
+      "value": 1
+    },
+    {
+      "source": "Larimer County Conservation Corps",
+      "target": "City of Longmont, CO - Button Rock Preserve",
+      "value": 1
+    },
+    {
+      "source": "Larimer County Conservation Corps",
+      "target": "Coalition For the Poudre River Watershed",
+      "value": 1
+    },
+    {
+      "source": "Larimer County Conservation Corps",
+      "target": "Colorado Department of Natural Resources - COSWAP",
+      "value": 1
+    },
+    {
+      "source": "Larimer County Conservation Corps",
+      "target": "Great Outdoors Colorado",
+      "value": 1
+    },
+    {
+      "source": "Larimer County Conservation Corps",
+      "target": "Lefthand Canyon Fire Protection District",
+      "value": 1
+    },
+    {
+      "source": "Larimer County Conservation Corps",
+      "target": "Peaks to People Water Fund",
+      "value": 1
+    },
+    {
+      "source": "Larimer County DNR, OEM, Sherriff's Office",
+      "target": "Big Thompson Watershed Coalition",
+      "value": 1
+    },
+    {
+      "source": "Larimer County DNR, OEM, Sherriff's Office",
+      "target": "Boulder County Open Space",
+      "value": 1
+    },
+    {
+      "source": "Larimer County DNR, OEM, Sherriff's Office",
+      "target": "City of Fort Collins",
+      "value": 1
+    },
+    {
+      "source": "Larimer County DNR, OEM, Sherriff's Office",
+      "target": "Coalition For the Poudre River Watershed",
+      "value": 1
+    },
+    {
+      "source": "Larimer County DNR, OEM, Sherriff's Office",
+      "target": "Colorado Parks and WIldlife",
+      "value": 1
+    },
+    {
+      "source": "Larimer County DNR, OEM, Sherriff's Office",
+      "target": "Colorado State Forest Service",
+      "value": 1
+    },
+    {
+      "source": "Larimer County DNR, OEM, Sherriff's Office",
+      "target": "Larimer County",
+      "value": 1
+    },
+    {
+      "source": "Larimer County DNR, OEM, Sherriff's Office",
+      "target": "Natural Resources Conservation Service (NRCS)",
+      "value": 1
+    },
+    {
+      "source": "Larimer County DNR, OEM, Sherriff's Office",
+      "target": "Northern Water",
+      "value": 1
+    },
+    {
+      "source": "Larimer County DNR, OEM, Sherriff's Office",
+      "target": "United States Forest Service - Canyon Lakes District",
+      "value": 1
+    },
+    {
+      "source": "Larimer County Office of Emergency Management",
+      "target": "Big Thompson Watershed Coalition",
+      "value": 1
+    },
+    {
+      "source": "Larimer County Office of Emergency Management",
+      "target": "Coalition For the Poudre River Watershed",
+      "value": 1
+    },
+    {
+      "source": "Larimer County Office of Emergency Management",
+      "target": "Estes Valley Watershed Coalition",
+      "value": 1
+    },
+    {
+      "source": "Larimer County Office of Emergency Management",
+      "target": "Larimer Conservation District",
+      "value": 1
+    },
+    {
+      "source": "Larimer County Office of Emergency Management",
+      "target": "Larimer County Conservation Corps",
+      "value": 1
+    },
+    {
+      "source": "Larimer County Office of Emergency Management",
+      "target": "Larimer County Economic & Workforce Development",
+      "value": 1
+    },
+    {
+      "source": "Larimer County Office of Emergency Management",
+      "target": "Larimer County Sheriff's Office",
+      "value": 1
+    },
+    {
+      "source": "Larimer County Office of Emergency Management",
+      "target": "Northern Colorado Fireshed Collaborative",
+      "value": 1
+    },
+    {
+      "source": "Larimer County Office of Emergency Management",
+      "target": "United States Forest Service",
+      "value": 1
+    },
+    {
+      "source": "Lefthand Fire Protection District",
+      "target": "Boulder County",
+      "value": 1
+    },
+    {
+      "source": "Lefthand Fire Protection District",
+      "target": "Boulder County Firefighters Association",
+      "value": 1
+    },
+    {
+      "source": "Lefthand Fire Protection District",
+      "target": "Colorado State Forest Service",
+      "value": 1
+    },
+    {
+      "source": "Lefthand Fire Protection District",
+      "target": "St Vrain Forestry Health Partners",
+      "value": 1
+    },
+    {
+      "source": "Lefthand Fire Protection District",
+      "target": "United States Forest Service",
+      "value": 1
+    },
+    {
+      "source": "Longmont and Boulder Valley Conservation Districts",
+      "target": "Boulder County",
+      "value": 1
+    },
+    {
+      "source": "Longmont and Boulder Valley Conservation Districts",
+      "target": "Boulder County Parks and Open Space",
+      "value": 1
+    },
+    {
+      "source": "Longmont and Boulder Valley Conservation Districts",
+      "target": "Boulder Watershed Collective",
+      "value": 1
+    },
+    {
+      "source": "Longmont and Boulder Valley Conservation Districts",
+      "target": "Colorado State Forest Service",
+      "value": 1
+    },
+    {
+      "source": "Longmont and Boulder Valley Conservation Districts",
+      "target": "Jefferson Conservation District",
+      "value": 1
+    },
+    {
+      "source": "Longmont and Boulder Valley Conservation Districts",
+      "target": "Larimer Conservation District",
+      "value": 1
+    },
+    {
+      "source": "Longmont and Boulder Valley Conservation Districts",
+      "target": "Natural Resource Conservation Service (NRCS)",
+      "value": 1
+    },
+    {
+      "source": "Longmont and Boulder Valley Conservation Districts",
+      "target": "The Watershed Center",
+      "value": 1
+    },
+    {
+      "source": "Municipalities-incorporated and unicorporated",
+      "target": "Boulder County Fireshed",
+      "value": 1
+    },
+    {
+      "source": "Municipalities-incorporated and unicorporated",
+      "target": "Boulder County Office of Emergency Managment",
+      "value": 1
+    },
+    {
+      "source": "Municipalities-incorporated and unicorporated",
+      "target": "Boulder County Sheriff",
+      "value": 1
+    },
+    {
+      "source": "Municipalities-incorporated and unicorporated",
+      "target": "Boulder County and Louisville Recovery Teams",
+      "value": 1
+    },
+    {
+      "source": "Municipalities-incorporated and unicorporated",
+      "target": "Butterfly Pavilion",
+      "value": 1
+    },
+    {
+      "source": "Municipalities-incorporated and unicorporated",
+      "target": "Louisville Fire and Open Space Dpts",
+      "value": 1
+    },
+    {
+      "source": "Municipalities-incorporated and unicorporated",
+      "target": "Mountain View Fire Rescue",
+      "value": 1
+    },
+    {
+      "source": "Municipalities-incorporated and unicorporated",
+      "target": "Mt View Fire District",
+      "value": 1
+    },
+    {
+      "source": "Municipalities-incorporated and unicorporated",
+      "target": "State of Colorado",
+      "value": 1
+    },
+    {
+      "source": "Municipalities-incorporated and unicorporated",
+      "target": "Wildfire Partners",
+      "value": 2
+    },
+    {
+      "source": "National Forest Foundation",
+      "target": "Big Thompson Watershed Coalition",
+      "value": 1
+    },
+    {
+      "source": "National Forest Foundation",
+      "target": "Boulder Valley and Longmont Conservation Districts",
+      "value": 1
+    },
+    {
+      "source": "National Forest Foundation",
+      "target": "Boulder Watershed Collective",
+      "value": 1
+    },
+    {
+      "source": "National Forest Foundation",
+      "target": "Clear Creek Watershed and Forest Health Partnership",
+      "value": 1
+    },
+    {
+      "source": "National Forest Foundation",
+      "target": "Coalition For the Poudre River Watershed",
+      "value": 1
+    },
+    {
+      "source": "National Forest Foundation",
+      "target": "Estes Valley Watershed Coalition",
+      "value": 1
+    },
+    {
+      "source": "National Forest Foundation",
+      "target": "Larimer Conservation District",
+      "value": 1
+    },
+    {
+      "source": "National Forest Foundation",
+      "target": "Peaks to People Water Fund",
+      "value": 1
+    },
+    {
+      "source": "National Forest Foundation",
+      "target": "Poudre Canyon Fire Protection District",
+      "value": 1
+    },
+    {
+      "source": "National Forest Foundation",
+      "target": "The Watershed Center",
+      "value": 1
+    },
+    {
+      "source": "Natural Resources Conservation Service (NRCS)",
+      "target": "Boulder Valley and Longmont Conservation Districts",
+      "value": 1
+    },
+    {
+      "source": "Natural Resources Conservation Service (NRCS)",
+      "target": "Colorado Department of Natural Resources",
+      "value": 1
+    },
+    {
+      "source": "Natural Resources Conservation Service (NRCS)",
+      "target": "Colorado Forest Restoration Institute",
+      "value": 1
+    },
+    {
+      "source": "Natural Resources Conservation Service (NRCS)",
+      "target": "Colorado Parks and Wildlife",
+      "value": 1
+    },
+    {
+      "source": "Natural Resources Conservation Service (NRCS)",
+      "target": "Colorado State Forest Service",
+      "value": 1
+    },
+    {
+      "source": "Natural Resources Conservation Service (NRCS)",
+      "target": "Denver Water",
+      "value": 1
+    },
+    {
+      "source": "Natural Resources Conservation Service (NRCS)",
+      "target": "Jefferson Conservation District",
+      "value": 1
+    },
+    {
+      "source": "Natural Resources Conservation Service (NRCS)",
+      "target": "Larimer Conservation District",
+      "value": 1
+    },
+    {
+      "source": "Natural Resources Conservation Service (NRCS)",
+      "target": "United States Forest Service",
+      "value": 1
+    },
+    {
+      "source": "Peaks to People Water Fund",
+      "target": "Big Thompson Watershed Coalition",
+      "value": 2
+    },
+    {
+      "source": "Peaks to People Water Fund",
+      "target": "Colorado Forest Restoration Institute",
+      "value": 2
+    },
+    {
+      "source": "Peaks to People Water Fund",
+      "target": "Colorado State Forest Service",
+      "value": 2
+    },
+    {
+      "source": "Peaks to People Water Fund",
+      "target": "Colorado Water Conservation Board",
+      "value": 1
+    },
+    {
+      "source": "Peaks to People Water Fund",
+      "target": "Estes Valley Watershed Coalition",
+      "value": 2
+    },
+    {
+      "source": "Peaks to People Water Fund",
+      "target": "Larimer Conservation District",
+      "value": 2
+    },
+    {
+      "source": "Peaks to People Water Fund",
+      "target": "Larimer County Office of Emergency Management",
+      "value": 1
+    },
+    {
+      "source": "Peaks to People Water Fund",
+      "target": "Northern Colorado Fireshed Collaborative",
+      "value": 1
+    },
+    {
+      "source": "Peaks to People Water Fund",
+      "target": "Northern Water Conservancy District",
+      "value": 1
+    },
+    {
+      "source": "Peaks to People Water Fund",
+      "target": "The Nature Conservancy in Colorado",
+      "value": 2
+    },
+    {
+      "source": "Pike - San Isabel National Forest",
+      "target": "Coalition for the Upper South Platte",
+      "value": 1
+    },
+    {
+      "source": "Pike - San Isabel National Forest",
+      "target": "Coalitions and Collaboratives",
+      "value": 1
+    },
+    {
+      "source": "Pike - San Isabel National Forest",
+      "target": "National Forest Foundation",
+      "value": 1
+    },
+    {
+      "source": "Pike - San Isabel National Forest",
+      "target": "there's too many, partnership coordinator would have a list",
+      "value": 1
+    },
+    {
+      "source": "Poudre Canyon Fire Protection District",
+      "target": "Coalition For the Poudre River Watershed",
+      "value": 1
+    },
+    {
+      "source": "Poudre Canyon Fire Protection District",
+      "target": "Colorado State Forest Service",
+      "value": 1
+    },
+    {
+      "source": "Poudre Canyon Fire Protection District",
+      "target": "Glacier View Fire Protection District",
+      "value": 1
+    },
+    {
+      "source": "Poudre Canyon Fire Protection District",
+      "target": "Larimer Conservation District",
+      "value": 1
+    },
+    {
+      "source": "Poudre Canyon Fire Protection District",
+      "target": "Larimer County Emergency Services",
+      "value": 1
+    },
+    {
+      "source": "Poudre Canyon Fire Protection District",
+      "target": "The Ember Alliance",
+      "value": 1
+    },
+    {
+      "source": "Poudre Canyon Fire Protection District",
+      "target": "Upper Poudre Watershed Stakholder Committee",
+      "value": 1
+    },
+    {
+      "source": "Rocky Mountain Conservancy",
+      "target": "Boulder Climbing Community",
+      "value": 1
+    },
+    {
+      "source": "Rocky Mountain Conservancy",
+      "target": "Boulder Ranger District",
+      "value": 1
+    },
+    {
+      "source": "Rocky Mountain Conservancy",
+      "target": "Canyon Lakes Ranger District",
+      "value": 1
+    },
+    {
+      "source": "Rocky Mountain Conservancy",
+      "target": "Environmental Learning for Kids",
+      "value": 1
+    },
+    {
+      "source": "Rocky Mountain Conservancy",
+      "target": "Nature Kids",
+      "value": 1
+    },
+    {
+      "source": "Rocky Mountain Conservancy",
+      "target": "Poudre Wilderness Volunteers",
+      "value": 1
+    },
+    {
+      "source": "Rocky Mountain Research Station",
+      "target": "Colorado Forest Restoration Institute",
+      "value": 1
+    },
+    {
+      "source": "Rocky Mountain Restoration Institute",
+      "target": "Colorado Department of Natural Resources",
+      "value": 1
+    },
+    {
+      "source": "Rocky Mountain Restoration Institute",
+      "target": "Colorado Forest Restoration Institute",
+      "value": 1
+    },
+    {
+      "source": "Rocky Mountain Restoration Institute",
+      "target": "Colorado State Forest Service",
+      "value": 1
+    },
+    {
+      "source": "Rocky Mountain Restoration Institute",
+      "target": "Denver Water",
+      "value": 1
+    },
+    {
+      "source": "Rocky Mountain Restoration Institute",
+      "target": "National Wild Turkey Federation",
+      "value": 1
+    },
+    {
+      "source": "Rocky Mountain Restoration Institute",
+      "target": "Upper South Platte Partnership",
+      "value": 1
+    },
+    {
+      "source": "Southern Rockies Fire Science Network",
+      "target": "Boulder County",
+      "value": 1
+    },
+    {
+      "source": "Southern Rockies Fire Science Network",
+      "target": "Boulder County Wildfire Partners",
+      "value": 1
+    },
+    {
+      "source": "Southern Rockies Fire Science Network",
+      "target": "Colorado State Forest Service",
+      "value": 1
+    },
+    {
+      "source": "Southern Rockies Fire Science Network",
+      "target": "Colorado State University",
+      "value": 1
+    },
+    {
+      "source": "Southern Rockies Fire Science Network",
+      "target": "Great Plains Fire Science Exchange",
+      "value": 1
+    },
+    {
+      "source": "Southern Rockies Fire Science Network",
+      "target": "Rocky Mountain Research Station",
+      "value": 1
+    },
+    {
+      "source": "Southern Rockies Fire Science Network",
+      "target": "The Nature Conservancy in Colorado",
+      "value": 1
+    },
+    {
+      "source": "Southern Rockies Fire Science Network",
+      "target": "Trees Water People",
+      "value": 1
+    },
+    {
+      "source": "St. Vrain and Left Hand Water Conservancy District",
+      "target": "Boulder Valley and Longmont Conservation Districts",
+      "value": 1
+    },
+    {
+      "source": "St. Vrain and Left Hand Water Conservancy District",
+      "target": "Larimer Conservation District",
+      "value": 1
+    },
+    {
+      "source": "St. Vrain and Left Hand Water Conservancy District",
+      "target": "The Watershed Center",
+      "value": 1
+    },
+    {
+      "source": "St. Vrain and Left Hand Water Conservancy District",
+      "target": "Town of Jamestown",
+      "value": 1
+    },
+    {
+      "source": "The Ember Alliance",
+      "target": "Arapaho & Roosevelt National Forest",
+      "value": 1
+    },
+    {
+      "source": "The Ember Alliance",
+      "target": "Big Thompson Watershed Coalition",
+      "value": 4
+    },
+    {
+      "source": "The Ember Alliance",
+      "target": "Boulder Valley and Longmont Conservation Districts",
+      "value": 1
+    },
+    {
+      "source": "The Ember Alliance",
+      "target": "Boulder Watershed Collective",
+      "value": 1
+    },
+    {
+      "source": "The Ember Alliance",
+      "target": "Clear Creek Watershed and Forest Health Partnership",
+      "value": 1
+    },
+    {
+      "source": "The Ember Alliance",
+      "target": "Coal Creek Canyon Fire Protection District",
+      "value": 1
+    },
+    {
+      "source": "The Ember Alliance",
+      "target": "Coalition For the Poudre River Watershed",
+      "value": 3
+    },
+    {
+      "source": "The Ember Alliance",
+      "target": "Coalitions and Collaboratives",
+      "value": 1
+    },
+    {
+      "source": "The Ember Alliance",
+      "target": "Colorado Department of Natural Resources",
+      "value": 2
+    },
+    {
+      "source": "The Ember Alliance",
+      "target": "Colorado State Forest Service",
+      "value": 1
+    },
+    {
+      "source": "The Ember Alliance",
+      "target": "Colorado State University",
+      "value": 1
+    },
+    {
+      "source": "The Ember Alliance",
+      "target": "Estes Valley Watershed Coalition",
+      "value": 1
+    },
+    {
+      "source": "The Ember Alliance",
+      "target": "Fire Adapted Communities Learning Network (FACNET)",
+      "value": 1
+    },
+    {
+      "source": "The Ember Alliance",
+      "target": "Front Range Community College",
+      "value": 2
+    },
+    {
+      "source": "The Ember Alliance",
+      "target": "Great Outdoors Colorado",
+      "value": 1
+    },
+    {
+      "source": "The Ember Alliance",
+      "target": "Jefferson County",
+      "value": 1
+    },
+    {
+      "source": "The Ember Alliance",
+      "target": "Larimer Conservation District",
+      "value": 1
+    },
+    {
+      "source": "The Ember Alliance",
+      "target": "Larimer County Office of Emergency Management",
+      "value": 2
+    },
+    {
+      "source": "The Ember Alliance",
+      "target": "Nederland Fire Protection District",
+      "value": 1
+    },
+    {
+      "source": "The Ember Alliance",
+      "target": "Northern Colorado Fireshed Collaborative",
+      "value": 1
+    },
+    {
+      "source": "The Ember Alliance",
+      "target": "St. Vrain Forest Health Partnership",
+      "value": 1
+    },
+    {
+      "source": "The Ember Alliance",
+      "target": "The Nature Conservancy",
+      "value": 1
+    },
+    {
+      "source": "The Ember Alliance",
+      "target": "The Nature Conservancy in Colorado",
+      "value": 1
+    },
+    {
+      "source": "The Ember Alliance",
+      "target": "The Watershed Center",
+      "value": 1
+    },
+    {
+      "source": "The Ember Alliance",
+      "target": "United States Forest Service",
+      "value": 1
+    },
+    {
+      "source": "The Nature Conservancy",
+      "target": "Arapahoe NF, USFS",
+      "value": 1
+    },
+    {
+      "source": "The Nature Conservancy",
+      "target": "Big Thompson Watershed Coalition",
+      "value": 1
+    },
+    {
+      "source": "The Nature Conservancy",
+      "target": "Coalition For the Poudre River Watershed",
+      "value": 2
+    },
+    {
+      "source": "The Nature Conservancy",
+      "target": "Colorado Forest Collaboratives Network",
+      "value": 1
+    },
+    {
+      "source": "The Nature Conservancy",
+      "target": "Colorado Forest Restoration Institute",
+      "value": 2
+    },
+    {
+      "source": "The Nature Conservancy",
+      "target": "Colorado State Forest Service",
+      "value": 2
+    },
+    {
+      "source": "The Nature Conservancy",
+      "target": "Fire Adapted Colorado",
+      "value": 1
+    },
+    {
+      "source": "The Nature Conservancy",
+      "target": "Jefferson Conservation District",
+      "value": 1
+    },
+    {
+      "source": "The Nature Conservancy",
+      "target": "Larimer Conservation District",
+      "value": 2
+    },
+    {
+      "source": "The Nature Conservancy",
+      "target": "Peaks to People Water Fund",
+      "value": 1
+    },
+    {
+      "source": "The Nature Conservancy",
+      "target": "The Ember Alliance",
+      "value": 2
+    },
+    {
+      "source": "The Nature Conservancy",
+      "target": "United States Forest Service",
+      "value": 1
+    },
+    {
+      "source": "The Nature Conservancy",
+      "target": "Western Resource Advocates",
+      "value": 1
+    },
+    {
+      "source": "The Watershed Center",
+      "target": "Allenspark Fire Protection District",
+      "value": 1
+    },
+    {
+      "source": "The Watershed Center",
+      "target": "Boulder County",
+      "value": 1
+    },
+    {
+      "source": "The Watershed Center",
+      "target": "Boulder County Fireshed",
+      "value": 1
+    },
+    {
+      "source": "The Watershed Center",
+      "target": "Boulder County Wildfire Partners",
+      "value": 1
+    },
+    {
+      "source": "The Watershed Center",
+      "target": "Boulder Valley and Longmont Conservation Districts",
+      "value": 1
+    },
+    {
+      "source": "The Watershed Center",
+      "target": "Boulder Watershed Collective",
+      "value": 1
+    },
+    {
+      "source": "The Watershed Center",
+      "target": "City of Longmont",
+      "value": 1
+    },
+    {
+      "source": "The Watershed Center",
+      "target": "Colorado Forest Restoration Institute",
+      "value": 1
+    },
+    {
+      "source": "The Watershed Center",
+      "target": "Colorado State Forest Service",
+      "value": 1
+    },
+    {
+      "source": "The Watershed Center",
+      "target": "Colorado Water Conservation Board",
+      "value": 1
+    },
+    {
+      "source": "The Watershed Center",
+      "target": "Lefthand Fire Protection District",
+      "value": 1
+    },
+    {
+      "source": "The Watershed Center",
+      "target": "St. Vrain Forest Health Partnership",
+      "value": 1
+    },
+    {
+      "source": "The Watershed Center",
+      "target": "St. Vrain and Left Hand Water Conservancy District",
+      "value": 1
+    },
+    {
+      "source": "The Watershed Center",
+      "target": "United States Forest Service",
+      "value": 1
+    },
+    {
+      "source": "Timberline Fire Protection District",
+      "target": "Boulder County Fireshed",
+      "value": 1
+    },
+    {
+      "source": "Timberline Fire Protection District",
+      "target": "Clear Creek County",
+      "value": 1
+    },
+    {
+      "source": "Timberline Fire Protection District",
+      "target": "Colorado State Forest Service",
+      "value": 1
+    },
+    {
+      "source": "Timberline Fire Protection District",
+      "target": "Colorado State University - Gilpin County Extension",
+      "value": 1
+    },
+    {
+      "source": "Timberline Fire Protection District",
+      "target": "The Ember Alliance",
+      "value": 1
+    },
+    {
+      "source": "Timberline Fire Protection District",
+      "target": "United States Forest Service",
+      "value": 1
+    },
+    {
+      "source": "Town of Estes Park",
+      "target": "Estes Valley Fire Protection District",
+      "value": 1
+    },
+    {
+      "source": "Town of Estes Park",
+      "target": "Estes Valley Watershed Coalition",
+      "value": 1
+    },
+    {
+      "source": "Town of Estes Park",
+      "target": "Rocky Mountain National Park",
+      "value": 1
+    },
+    {
+      "source": "Trihydro Corporation",
+      "target": "Larimer Conservation District",
+      "value": 1
+    },
+    {
+      "source": "U.S. Forest Service",
+      "target": "American Forest Foundation",
+      "value": 1
+    },
+    {
+      "source": "U.S. Forest Service",
+      "target": "Big Thompson Watershed Coalition",
+      "value": 3
+    },
+    {
+      "source": "U.S. Forest Service",
+      "target": "Boulder County Fire Departments",
+      "value": 1
+    },
+    {
+      "source": "U.S. Forest Service",
+      "target": "Boulder County Fireshed",
+      "value": 1
+    },
+    {
+      "source": "U.S. Forest Service",
+      "target": "Boulder County PIO Group",
+      "value": 1
+    },
+    {
+      "source": "U.S. Forest Service",
+      "target": "Boulder County Sheriff's Office",
+      "value": 1
+    },
+    {
+      "source": "U.S. Forest Service",
+      "target": "Boulder Watershed Collective",
+      "value": 2
+    },
+    {
+      "source": "U.S. Forest Service",
+      "target": "Central Colorado Forest Collaborative",
+      "value": 1
+    },
+    {
+      "source": "U.S. Forest Service",
+      "target": "City of Boulder",
+      "value": 1
+    },
+    {
+      "source": "U.S. Forest Service",
+      "target": "Clear Creek Watershed and Forest Health Partnership",
+      "value": 2
+    },
+    {
+      "source": "U.S. Forest Service",
+      "target": "Coalition For the Poudre River Watershed",
+      "value": 1
+    },
+    {
+      "source": "U.S. Forest Service",
+      "target": "Coalition for the Poudre River Watershed",
+      "value": 2
+    },
+    {
+      "source": "U.S. Forest Service",
+      "target": "Coalitions and Collaboratives",
+      "value": 1
+    },
+    {
+      "source": "U.S. Forest Service",
+      "target": "Colorado Dept of Fire Prevention and Control",
+      "value": 1
+    },
+    {
+      "source": "U.S. Forest Service",
+      "target": "Colorado Forest Restoration Institute",
+      "value": 5
+    },
+    {
+      "source": "U.S. Forest Service",
+      "target": "Colorado State Forest Service",
+      "value": 3
+    },
+    {
+      "source": "U.S. Forest Service",
+      "target": "Colorado State University",
+      "value": 2
+    },
+    {
+      "source": "U.S. Forest Service",
+      "target": "Denver Water",
+      "value": 1
+    },
+    {
+      "source": "U.S. Forest Service",
+      "target": "Estes Valley Watershed Coalition",
+      "value": 1
+    },
+    {
+      "source": "U.S. Forest Service",
+      "target": "Fire adapted Colorado",
+      "value": 1
+    },
+    {
+      "source": "U.S. Forest Service",
+      "target": "Grand County Fire Protection District No.1",
+      "value": 1
+    },
+    {
+      "source": "U.S. Forest Service",
+      "target": "Jefferson County",
+      "value": 1
+    },
+    {
+      "source": "U.S. Forest Service",
+      "target": "Larimer Conservation District",
+      "value": 2
+    },
+    {
+      "source": "U.S. Forest Service",
+      "target": "Magnolia Forest Group NFP",
+      "value": 1
+    },
+    {
+      "source": "U.S. Forest Service",
+      "target": "Mule Deer Foundation",
+      "value": 1
+    },
+    {
+      "source": "U.S. Forest Service",
+      "target": "National Forest Foundation",
+      "value": 4
+    },
+    {
+      "source": "U.S. Forest Service",
+      "target": "National Wild Turkey Federation",
+      "value": 1
+    },
+    {
+      "source": "U.S. Forest Service",
+      "target": "Northern Colorado Fireshed Collaborative",
+      "value": 4
+    },
+    {
+      "source": "U.S. Forest Service",
+      "target": "Northern Colorado Places",
+      "value": 1
+    },
+    {
+      "source": "U.S. Forest Service",
+      "target": "Northern Water",
+      "value": 1
+    },
+    {
+      "source": "U.S. Forest Service",
+      "target": "Rocky Mountain Research Station",
+      "value": 1
+    },
+    {
+      "source": "U.S. Forest Service",
+      "target": "St. Vrain Forest Health Partnership",
+      "value": 1
+    },
+    {
+      "source": "U.S. Forest Service",
+      "target": "Summit County Public Health",
+      "value": 1
+    },
+    {
+      "source": "U.S. Forest Service",
+      "target": "The Ember Alliance",
+      "value": 2
+    },
+    {
+      "source": "U.S. Forest Service",
+      "target": "The Nature Conservancy Colorado",
+      "value": 1
+    },
+    {
+      "source": "U.S. Forest Service",
+      "target": "The Watershed Center",
+      "value": 2
+    },
+    {
+      "source": "U.S. Forest Service",
+      "target": "Trout Unlimited",
+      "value": 1
+    },
+    {
+      "source": "U.S. Forest Service",
+      "target": "Upper South Platte Partnership",
+      "value": 1
+    },
+    {
+      "source": "US Forest Service - Arapahoe Roosevelt",
+      "target": "Big Thompson Watershed Coalition",
+      "value": 1
+    },
+    {
+      "source": "US Forest Service - Arapahoe Roosevelt",
+      "target": "Coalition For the Poudre River Watershed",
+      "value": 1
+    },
+    {
+      "source": "US Forest Service - Arapahoe Roosevelt",
+      "target": "Colorado Division of Fire Prevention and Control",
+      "value": 1
+    },
+    {
+      "source": "US Forest Service - Arapahoe Roosevelt",
+      "target": "Colorado Forest Restoration Institute",
+      "value": 1
+    },
+    {
+      "source": "US Forest Service - Arapahoe Roosevelt",
+      "target": "Colorado State Forest Service",
+      "value": 1
+    },
+    {
+      "source": "US Forest Service - Arapahoe Roosevelt",
+      "target": "Larimer Conservation District",
+      "value": 1
+    },
+    {
+      "source": "US Forest Service - Arapahoe Roosevelt",
+      "target": "Larimer County Emergency Services",
+      "value": 1
+    },
+    {
+      "source": "US Forest Service - Arapahoe Roosevelt",
+      "target": "Natural Resources Conservation Service (NRCS)",
+      "value": 1
+    },
+    {
+      "source": "US Forest Service - Arapahoe Roosevelt",
+      "target": "Northern Colorado Fireshed Collaborative",
+      "value": 1
+    },
+    {
+      "source": "US Forest Service - Arapahoe Roosevelt",
+      "target": "Rocky Mountain National Park",
+      "value": 1
+    },
+    {
+      "source": "USFS",
+      "target": "Aurora Water",
+      "value": 1
+    },
+    {
+      "source": "USFS",
+      "target": "Coalition For the Upper South Platte",
+      "value": 1
+    },
+    {
+      "source": "USFS",
+      "target": "Colorado Forest Restoration Institute",
+      "value": 2
+    },
+    {
+      "source": "USFS",
+      "target": "Colorado Springs Utilities",
+      "value": 1
+    },
+    {
+      "source": "USFS",
+      "target": "Colorado State Forest Service",
+      "value": 1
+    },
+    {
+      "source": "USFS",
+      "target": "Colorado Water Conservation Board",
+      "value": 1
+    },
+    {
+      "source": "USFS",
+      "target": "Denver Water",
+      "value": 1
+    },
+    {
+      "source": "USFS",
+      "target": "Douglas County Office of Emergency Management",
+      "value": 1
+    },
+    {
+      "source": "USFS",
+      "target": "Elk Creek Fire Protection District",
+      "value": 1
+    },
+    {
+      "source": "USFS",
+      "target": "Jefferson Conservation District",
+      "value": 1
+    },
+    {
+      "source": "USFS",
+      "target": "Natural Resources Conservation Service (NRCS)",
+      "value": 1
+    },
+    {
+      "source": "USFS",
+      "target": "North Fork Fire Protection District",
+      "value": 1
+    },
+    {
+      "source": "USFS",
+      "target": "Rocky Mountain Restoration Institute",
+      "value": 1
+    },
+    {
+      "source": "USFS",
+      "target": "South Metro Fire Rescue",
+      "value": 1
+    },
+    {
+      "source": "USFS",
+      "target": "The Nature Conservancy in Colorado",
+      "value": 1
+    },
+    {
+      "source": "USFS",
+      "target": "Upper South Platte Partnership",
+      "value": 1
+    },
+    {
+      "source": "USFS ARP - Canyon Lakes Ranger District",
+      "target": "Big Thompson Watershed Coalition",
+      "value": 1
+    },
+    {
+      "source": "USFS ARP - Canyon Lakes Ranger District",
+      "target": "Boulder Watershed Collective",
+      "value": 1
+    },
+    {
+      "source": "USFS ARP - Canyon Lakes Ranger District",
+      "target": "Coalition For the Poudre River Watershed",
+      "value": 1
+    },
+    {
+      "source": "USFS ARP - Canyon Lakes Ranger District",
+      "target": "Colorado Forest Restoration Institute",
+      "value": 1
+    },
+    {
+      "source": "USFS ARP - Canyon Lakes Ranger District",
+      "target": "Colorado State Forest Service",
+      "value": 1
+    },
+    {
+      "source": "USFS ARP - Canyon Lakes Ranger District",
+      "target": "Larimer Conservation District",
+      "value": 1
+    },
+    {
+      "source": "USFS ARP - Canyon Lakes Ranger District",
+      "target": "National Forest Foundation",
+      "value": 1
+    },
+    {
+      "source": "USFS ARP - Canyon Lakes Ranger District",
+      "target": "The Ember Alliance",
+      "value": 1
+    },
+    {
+      "source": "USFS ARP - Canyon Lakes Ranger District",
+      "target": "The Nature Conservancy in Colorado",
+      "value": 1
+    },
+    {
+      "source": "USFS ARP - Canyon Lakes Ranger District",
+      "target": "The Watershed Center",
+      "value": 1
+    },
+    {
+      "source": "United States Forest Service - Pikes Peak Ranger District",
+      "target": "Colorado Parks and Wildlife",
+      "value": 1
+    },
+    {
+      "source": "United States Forest Service - Pikes Peak Ranger District",
+      "target": "Colorado Springs Fire Department",
+      "value": 1
+    },
+    {
+      "source": "United States Forest Service - Pikes Peak Ranger District",
+      "target": "Colorado Springs Utilities",
+      "value": 1
+    },
+    {
+      "source": "United States Forest Service - Pikes Peak Ranger District",
+      "target": "Colorado State Forest Service",
+      "value": 1
+    },
+    {
+      "source": "United States Forest Service - Pikes Peak Ranger District",
+      "target": "National Forest Foundation",
+      "value": 1
+    },
+    {
+      "source": "Upper Clear Creek Watershed Association",
+      "target": "Big Thompson Watershed Coalition",
+      "value": 1
+    },
+    {
+      "source": "Upper Clear Creek Watershed Association",
+      "target": "Clear Creek Watershed and Forest Health Partnership",
+      "value": 1
+    },
+    {
+      "source": "Upper Clear Creek Watershed Association",
+      "target": "Coalitions and Collaboratives",
+      "value": 1
+    },
+    {
+      "source": "Upper Clear Creek Watershed Association",
+      "target": "Colorado Ag Water Alliance",
+      "value": 1
+    },
+    {
+      "source": "Western Resource Advocates",
+      "target": "Fire Adapted Colorado",
+      "value": 1
+    },
+    {
+      "source": "Western Resource Advocates",
+      "target": "The Ember Alliance",
+      "value": 1
+    },
+    {
+      "source": "Western Resource Advocates",
+      "target": "The Nature Conservancy in Colorado",
+      "value": 1
+    },
+    {
+      "source": "WiRe",
+      "target": "Estes Valley Fire Protection District",
+      "value": 1
+    },
+    {
+      "source": "WiRe",
+      "target": "Estes Valley Watershed Coalition",
+      "value": 1
+    },
+    {
+      "source": "WiRe",
+      "target": "Platte Canyon Fire Protection District",
+      "value": 1
+    },
+    {
+      "source": "WiRe",
+      "target": "The Watershed Center (St Vrain)",
+      "value": 1
+    },
+    {
+      "source": "WiRe",
+      "target": "United States Forest Service- Rocky Mountain Research Station",
+      "value": 1
+    },
+    {
+      "source": "WiRe",
+      "target": "United States Geological Survey",
+      "value": 1
+    },
+    {
+      "source": "WiRe",
+      "target": "University of Colorado Boulder",
+      "value": 1
+    },
+    {
+      "source": "WiRe",
+      "target": "Wildfire Partners",
+      "value": 1
+    }
+  ],
+  "vertices": [
+    {
+      "id": "Aurora Water",
+      "x": -3.6388,
+      "y": 304.8465,
+      "r": 7.9282,
+      "group": "local"
+    },
+    {
+      "id": "CO State Forest Service",
+      "x": -6.2798,
+      "y": 354.5043,
+      "r": 3,
+      "group": "other"
+    },
+    {
+      "id": "CO Water Conservation Board (CWCB)",
+      "x": -7.1127,
+      "y": 304.5965,
+      "r": 3,
+      "group": "other"
+    },
+    {
+      "id": "Coalition for the Upper South Platte",
+      "x": -3.7678,
+      "y": 367.2857,
+      "r": 3.8284,
+      "group": "ngo"
+    },
+    {
+      "id": "Denver Water",
+      "x": -1.1859,
+      "y": 283.5518,
+      "r": 8.2111,
+      "group": "local"
+    },
+    {
+      "id": "Jefferson Conservation District",
+      "x": -2.3981,
+      "y": 287.8482,
+      "r": 7.9282,
+      "group": "local"
+    },
+    {
+      "id": "South Platte Enhancement Board (SPEB)",
+      "x": -6.6614,
+      "y": 329.7376,
+      "r": 3,
+      "group": "other"
+    },
+    {
+      "id": "Stewardship West",
+      "x": -5.8077,
+      "y": 367.7431,
+      "r": 3,
+      "group": "ngo"
+    },
+    {
+      "id": "United States Forest Service",
+      "x": -1.0142,
+      "y": 251.7092,
+      "r": 9.7178,
+      "group": "federal"
+    },
+    {
+      "id": "Upper South Platte Partnership USPP",
+      "x": -7.268,
+      "y": 286.9449,
+      "r": 3,
+      "group": "federal"
+    },
+    {
+      "id": "Big Thompson Watershed Coalition",
+      "x": 0.9935,
+      "y": 204.8953,
+      "r": 11.7703,
+      "group": "ngo"
+    },
+    {
+      "id": "City of Greeley",
+      "x": 1.725,
+      "y": 197.6716,
+      "r": 10.1652,
+      "group": "local"
+    },
+    {
+      "id": "City of Loveland",
+      "x": 2.1464,
+      "y": 128.1114,
+      "r": 3.8284,
+      "group": "local"
+    },
+    {
+      "id": "Coalition For the Poudre River Watershed",
+      "x": -0.189,
+      "y": 218.105,
+      "r": 9.2462,
+      "group": "ngo"
+    },
+    {
+      "id": "Colorado Water Conservation Board",
+      "x": -1.4132,
+      "y": 226.6434,
+      "r": 10.1652,
+      "group": "state"
+    },
+    {
+      "id": "Larimer Conservation District",
+      "x": 2.1636,
+      "y": 208.4528,
+      "r": 12.3137,
+      "group": "local"
+    },
+    {
+      "id": "Larimer County Office of Emergency Management",
+      "x": 0.2604,
+      "y": 180.4728,
+      "r": 8.746,
+      "group": "local"
+    },
+    {
+      "id": "National Forest Foundation",
+      "x": 1.2419,
+      "y": 236.7892,
+      "r": 9.9443,
+      "group": "ngo"
+    },
+    {
+      "id": "Peaks to People Water Fund",
+      "x": 0.4534,
+      "y": 200.0419,
+      "r": 9.4853,
+      "group": "ngo"
+    },
+    {
+      "id": "Boulder County",
+      "x": 1.357,
+      "y": 323.3836,
+      "r": 10.5917,
+      "group": "local"
+    },
+    {
+      "id": "Boulder County Fire Protection Districts",
+      "x": 2.0626,
+      "y": 379.5313,
+      "r": 6.2915,
+      "group": "local"
+    },
+    {
+      "id": "Boulder County Fireshed",
+      "x": 1.4755,
+      "y": 287.5922,
+      "r": 9.4853,
+      "group": "local"
+    },
+    {
+      "id": "Boulder County Office of Disaster Management",
+      "x": 1.786,
+      "y": 396.5177,
+      "r": 3.8284,
+      "group": "local"
+    },
+    {
+      "id": "Boulder RD, Arapahoe Roosevelt NF, USFS",
+      "x": 0.9865,
+      "y": 400.8545,
+      "r": 3,
+      "group": "federal"
+    },
+    {
+      "id": "Boulder Valley and Longmont Conservation Districts",
+      "x": 1.28,
+      "y": 281.3511,
+      "r": 8.2111,
+      "group": "local"
+    },
+    {
+      "id": "Boulder Watershed Collective",
+      "x": 0.8219,
+      "y": 289.49,
+      "r": 9,
+      "group": "ngo"
+    },
+    {
+      "id": "Colorado Department of Natural Resources",
+      "x": -1.3368,
+      "y": 254.3166,
+      "r": 9,
+      "group": "state"
+    },
+    {
+      "id": "Colorado State Forest Service",
+      "x": 0.2082,
+      "y": 267.7866,
+      "r": 12.6619,
+      "group": "state"
+    },
+    {
+      "id": "Colorado State Forest Service- Boulder",
+      "x": 4.6597,
+      "y": 327.5217,
+      "r": 3.8284,
+      "group": "federal"
+    },
+    {
+      "id": "Municipalities-incorporated and unicorporated",
+      "x": 4.2631,
+      "y": 341.0669,
+      "r": 7.6332,
+      "group": "local"
+    },
+    {
+      "id": "Northern Colorado Fireshed Collaborative",
+      "x": 1.4653,
+      "y": 241.8089,
+      "r": 8.2111,
+      "group": "state"
+    },
+    {
+      "id": "Saint Vrain Forest Health Partnership",
+      "x": 2.5891,
+      "y": 395.9211,
+      "r": 3,
+      "group": "other"
+    },
+    {
+      "id": "The Watershed Center",
+      "x": 0.6076,
+      "y": 279.9137,
+      "r": 11.9545,
+      "group": "ngo"
+    },
+    {
+      "id": "United States Forest Service-ARP",
+      "x": 0.5784,
+      "y": 401.6117,
+      "r": 3,
+      "group": "federal"
+    },
+    {
+      "id": "United States Forest Service-Boulder Ranger District",
+      "x": 3.175,
+      "y": 384.7802,
+      "r": 3,
+      "group": "federal"
+    },
+    {
+      "id": "Boulder County Parks and Open Space",
+      "x": 3.134,
+      "y": 371.8899,
+      "r": 4.4641,
+      "group": "local"
+    },
+    {
+      "id": "Boulder County Sheriff Fire Management Office",
+      "x": 3.317,
+      "y": 467.548,
+      "r": 3,
+      "group": "local"
+    },
+    {
+      "id": "Boulder Fire - Rescue",
+      "x": -2.6514,
+      "y": 428.4004,
+      "r": 3.8284,
+      "group": "other"
+    },
+    {
+      "id": "Boulder Mountain Fire Protection District",
+      "x": 3.8654,
+      "y": 360.894,
+      "r": 4.4641,
+      "group": "fire district"
+    },
+    {
+      "id": "Wildfire Partners",
+      "x": 6.5944,
+      "y": 316.4598,
+      "r": 4.4641,
+      "group": "other"
+    },
+    {
+      "id": "City of Boulder",
+      "x": 3.8136,
+      "y": 287.6497,
+      "r": 7.3246,
+      "group": "local"
+    },
+    {
+      "id": "Colorado Forest Collaboratives Network",
+      "x": 2.7548,
+      "y": 326.1375,
+      "r": 3.8284,
+      "group": "state"
+    },
+    {
+      "id": "Colorado Forest Restoration Institute",
+      "x": -1.0773,
+      "y": 223.8518,
+      "r": 15,
+      "group": "state"
+    },
+    {
+      "id": "Boulder County Fireshed: Boulder Wildfire Partners, Boulder Watershed Collective, Boulder Fire Rescue",
+      "x": -0.3069,
+      "y": 343.5949,
+      "r": 6.6569,
+      "group": "local"
+    },
+    {
+      "id": "Boulder County Wildfire Partners",
+      "x": 1.0745,
+      "y": 340.9002,
+      "r": 7.9282,
+      "group": "local"
+    },
+    {
+      "id": "Boulder Office of Disaster Management",
+      "x": 0.1532,
+      "y": 435.1689,
+      "r": 3,
+      "group": "local"
+    },
+    {
+      "id": "Boulder Open Space and Mountain Parks",
+      "x": -1.5745,
+      "y": 426.0058,
+      "r": 3,
+      "group": "local"
+    },
+    {
+      "id": "Devil's Thumb HOA",
+      "x": -2.2416,
+      "y": 419.5945,
+      "r": 3,
+      "group": "local"
+    },
+    {
+      "id": "Fire Adapted Colorado",
+      "x": 1.6107,
+      "y": 323.8196,
+      "r": 8.4833,
+      "group": "ngo"
+    },
+    {
+      "id": "Wonderland Hills IV HOA",
+      "x": -0.8926,
+      "y": 431.8522,
+      "r": 3,
+      "group": "other"
+    },
+    {
+      "id": "Boulder County Sheriff's office",
+      "x": 2.4094,
+      "y": 426.9583,
+      "r": 3,
+      "group": "local"
+    },
+    {
+      "id": "City of Boulder Fire & Rescue",
+      "x": 4.744,
+      "y": 351.2495,
+      "r": 3.8284,
+      "group": "local"
+    },
+    {
+      "id": "The Boulder Watershed Collective",
+      "x": -0.042,
+      "y": 425.5946,
+      "r": 3,
+      "group": "other"
+    },
+    {
+      "id": "The USFS Boulder Ranger District",
+      "x": 1.1227,
+      "y": 431.0757,
+      "r": 3,
+      "group": "federal"
+    },
+    {
+      "id": "Boulder Valley and Longmont Conservation District",
+      "x": -0.2523,
+      "y": 277.6751,
+      "r": 7,
+      "group": "local"
+    },
+    {
+      "id": "Lefthand Fire Protection District",
+      "x": 0.1129,
+      "y": 321.1445,
+      "r": 6.6569,
+      "group": "fire district"
+    },
+    {
+      "id": "Natural Resources Conservation Service (NRCS)",
+      "x": -0.5335,
+      "y": 228.414,
+      "r": 8.746,
+      "group": "federal"
+    },
+    {
+      "id": "Center for Collaborative Conservation",
+      "x": 0.9248,
+      "y": 256.9057,
+      "r": 7.3246,
+      "group": "ngo"
+    },
+    {
+      "id": "St Vrain Watershed & Forest Health Partnership",
+      "x": 1.7063,
+      "y": 362.2564,
+      "r": 3,
+      "group": "other"
+    },
+    {
+      "id": "City Parks: Denver Mountain Parks, Ft Collins Natural Areas",
+      "x": -2.7131,
+      "y": 253.9457,
+      "r": 7.6332,
+      "group": "local"
+    },
+    {
+      "id": "Colorado Division of Fire Prevention and Control",
+      "x": -4.6,
+      "y": 179.5433,
+      "r": 3.8284,
+      "group": "state"
+    },
+    {
+      "id": "Conifer Wildland Divison",
+      "x": -5.9775,
+      "y": 293.8554,
+      "r": 3,
+      "group": "other"
+    },
+    {
+      "id": "Evergreen Fire Rescue",
+      "x": -5.7185,
+      "y": 284.4081,
+      "r": 5,
+      "group": "fire district"
+    },
+    {
+      "id": "Jefferson County Open Space",
+      "x": -4.1281,
+      "y": 243.5386,
+      "r": 7.6332,
+      "group": "local"
+    },
+    {
+      "id": "Jefferson County Sheriff's Office",
+      "x": -6.1656,
+      "y": 246.9016,
+      "r": 4.4641,
+      "group": "local"
+    },
+    {
+      "id": "Upper South Platte Partnership",
+      "x": -0.9467,
+      "y": 299.9341,
+      "r": 6.2915,
+      "group": "ngo"
+    },
+    {
+      "id": "4-Mile Fire protection district",
+      "x": 7.4238,
+      "y": 290.2942,
+      "r": 3,
+      "group": "fire district"
+    },
+    {
+      "id": "National Center for Atmospheric Research (NCAR)",
+      "x": 7.4998,
+      "y": 273.7306,
+      "r": 3,
+      "group": "federal"
+    },
+    {
+      "id": "National Institute of Standards and Technology",
+      "x": 7.3394,
+      "y": 302.0432,
+      "r": 3,
+      "group": "federal"
+    },
+    {
+      "id": "City of Fort Collins, CO",
+      "x": 2.856,
+      "y": 229.8997,
+      "r": 7.3246,
+      "group": "local"
+    },
+    {
+      "id": "City of Thornton",
+      "x": 4.9916,
+      "y": 178.7421,
+      "r": 3.8284,
+      "group": "local"
+    },
+    {
+      "id": "Coalition for the Poudre River Watershed",
+      "x": 0.4557,
+      "y": 210.4515,
+      "r": 9.7178,
+      "group": "ngo"
+    },
+    {
+      "id": "Colorado State University",
+      "x": 1.6978,
+      "y": 222.0521,
+      "r": 5.899,
+      "group": "state"
+    },
+    {
+      "id": "Northern Water",
+      "x": 2.7446,
+      "y": 173.4911,
+      "r": 6.2915,
+      "group": "other"
+    },
+    {
+      "id": "Rocky Mountain Research Station",
+      "x": 1.6749,
+      "y": 253.2225,
+      "r": 5,
+      "group": "federal"
+    },
+    {
+      "id": "Soldier Canyon Drinking Water Authority",
+      "x": 6.6113,
+      "y": 201.0739,
+      "r": 3,
+      "group": "other"
+    },
+    {
+      "id": "City of Golden",
+      "x": -0.9455,
+      "y": 334.9708,
+      "r": 7.6332,
+      "group": "local"
+    },
+    {
+      "id": "Clear Creek County",
+      "x": -2.1102,
+      "y": 378.994,
+      "r": 4.4641,
+      "group": "local"
+    },
+    {
+      "id": "Clear Creek Fire Authority",
+      "x": -4.5808,
+      "y": 392.8767,
+      "r": 5,
+      "group": "fire district"
+    },
+    {
+      "id": "Coalitions and Collaboratives",
+      "x": -0.1375,
+      "y": 268.2197,
+      "r": 9.4853,
+      "group": "ngo"
+    },
+    {
+      "id": "Colorado State University - Gilpin County Extension",
+      "x": -1.4166,
+      "y": 370.9661,
+      "r": 5,
+      "group": "state"
+    },
+    {
+      "id": "Timberline Fire Protection District",
+      "x": -0.026,
+      "y": 304.9057,
+      "r": 6.6569,
+      "group": "fire district"
+    },
+    {
+      "id": "Trout Unlimited",
+      "x": 3.1098,
+      "y": 308.9896,
+      "r": 3.8284,
+      "group": "other"
+    },
+    {
+      "id": "Upper Clear Creek Watershed Association",
+      "x": 2.7876,
+      "y": 260.8016,
+      "r": 5.4721,
+      "group": "ngo"
+    },
+    {
+      "id": "CASA of Larimer County",
+      "x": 3.4079,
+      "y": 106.388,
+      "r": 3,
+      "group": "local"
+    },
+    {
+      "id": "City of Fort Collins",
+      "x": -0.8024,
+      "y": 167.7567,
+      "r": 5.4721,
+      "group": "local"
+    },
+    {
+      "id": "City of Longmont",
+      "x": 3.1585,
+      "y": 291.3805,
+      "r": 4.4641,
+      "group": "local"
+    },
+    {
+      "id": "Northern Water Conservancy District",
+      "x": 2.4028,
+      "y": 134.1158,
+      "r": 3.8284,
+      "group": "fire district"
+    },
+    {
+      "id": "Soldier Canyon Water Authority",
+      "x": 2.3032,
+      "y": 98.1166,
+      "r": 3,
+      "group": "other"
+    },
+    {
+      "id": "Town of Estes Park",
+      "x": 3.7639,
+      "y": 147.9979,
+      "r": 5.899,
+      "group": "local"
+    },
+    {
+      "id": "City of Loveland, CO",
+      "x": 1.5457,
+      "y": 169.9031,
+      "r": 5.899,
+      "group": "local"
+    },
+    {
+      "id": "United States Geological Survey",
+      "x": 5.958,
+      "y": 139.5758,
+      "r": 3.8284,
+      "group": "federal"
+    },
+    {
+      "id": "Clear Creek County Sheriff",
+      "x": -7.2504,
+      "y": 356.0511,
+      "r": 5,
+      "group": "local"
+    },
+    {
+      "id": "Evergreen Fire Protection District",
+      "x": -10.3445,
+      "y": 360.0321,
+      "r": 3,
+      "group": "fire district"
+    },
+    {
+      "id": "Coalition For the Upper South Platte",
+      "x": -1.953,
+      "y": 326.7413,
+      "r": 6.2915,
+      "group": "ngo"
+    },
+    {
+      "id": "Colorado Springs Utilities",
+      "x": -3.0114,
+      "y": 275.7324,
+      "r": 6.2915,
+      "group": "state"
+    },
+    {
+      "id": "Park County Government",
+      "x": -4.4121,
+      "y": 394.649,
+      "r": 3,
+      "group": "local"
+    },
+    {
+      "id": "Teller County government",
+      "x": -3.8217,
+      "y": 404.75,
+      "r": 3,
+      "group": "local"
+    },
+    {
+      "id": "United States Forest Service - South Park Ranger District",
+      "x": -3.176,
+      "y": 410.7907,
+      "r": 3,
+      "group": "federal"
+    },
+    {
+      "id": "Canyon Lakes RD, Arapaho Roosevelt NF",
+      "x": 0.564,
+      "y": 112.8466,
+      "r": 3,
+      "group": "other"
+    },
+    {
+      "id": "Larimer County Conservation Corps",
+      "x": -1.226,
+      "y": 181.2764,
+      "r": 7.9282,
+      "group": "local"
+    },
+    {
+      "id": "The Ember Alliance",
+      "x": 0.8464,
+      "y": 228.0937,
+      "r": 12.4891,
+      "group": "ngo"
+    },
+    {
+      "id": "The Nature Conservancy in Colorado",
+      "x": -0.1954,
+      "y": 245.8435,
+      "r": 7.3246,
+      "group": "ngo"
+    },
+    {
+      "id": "Colorado Springs Fire Department",
+      "x": -3.6641,
+      "y": 294.0145,
+      "r": 3.8284,
+      "group": "state"
+    },
+    {
+      "id": "Pike National Forest",
+      "x": -1.6949,
+      "y": 351.8382,
+      "r": 3,
+      "group": "other"
+    },
+    {
+      "id": "CO Department of Corrections",
+      "x": -4.7034,
+      "y": 289.853,
+      "r": 3,
+      "group": "other"
+    },
+    {
+      "id": "Colorado Youth Corps Association",
+      "x": -5.0219,
+      "y": 261.1042,
+      "r": 3,
+      "group": "state"
+    },
+    {
+      "id": "Mile High Youth Corps",
+      "x": -5.0514,
+      "y": 230.0104,
+      "r": 3,
+      "group": "other"
+    },
+    {
+      "id": "Arapaho & Roosevelt National Forest",
+      "x": -0.9136,
+      "y": 165.2796,
+      "r": 3.8284,
+      "group": "federal"
+    },
+    {
+      "id": "Boulder County Open Space",
+      "x": -2.0248,
+      "y": 277.902,
+      "r": 4.4641,
+      "group": "local"
+    },
+    {
+      "id": "Boulder Ranger District",
+      "x": -1.9819,
+      "y": 138.3699,
+      "r": 3.8284,
+      "group": "other"
+    },
+    {
+      "id": "Colorado State Forest Service - NE",
+      "x": -2.8768,
+      "y": 230.8443,
+      "r": 7,
+      "group": "state"
+    },
+    {
+      "id": "County Open Space: Larimer, Boulder, Jefferson",
+      "x": -3.7417,
+      "y": 215.6086,
+      "r": 3,
+      "group": "local"
+    },
+    {
+      "id": "Fire Protection Districts: Lefthand, Evergreen, Elk Creek, Inter Canyon, West Metro, Platte Canyon",
+      "x": -3.6612,
+      "y": 201.375,
+      "r": 3,
+      "group": "fire district"
+    },
+    {
+      "id": "Jefferson County Open space",
+      "x": -3.5432,
+      "y": 204.9473,
+      "r": 3,
+      "group": "local"
+    },
+    {
+      "id": "Larimer County",
+      "x": -0.1452,
+      "y": 153.2477,
+      "r": 4.4641,
+      "group": "local"
+    },
+    {
+      "id": "Larimer County Conservation District",
+      "x": -1.2404,
+      "y": 153.5946,
+      "r": 3.8284,
+      "group": "local"
+    },
+    {
+      "id": "NRCS Conservation Districts: Jefferson CD, Boulder Valley Longmont CD, Larimer CD",
+      "x": -2.9519,
+      "y": 169.5587,
+      "r": 3,
+      "group": "other"
+    },
+    {
+      "id": "Pike- San Isabel National Forest",
+      "x": -2.0179,
+      "y": 153.6887,
+      "r": 3,
+      "group": "federal"
+    },
+    {
+      "id": "Pike-San Isabel NF and Arapahoe Roosevelt NF, USFS",
+      "x": -2.778,
+      "y": 180.7083,
+      "r": 3,
+      "group": "federal"
+    },
+    {
+      "id": "South Platte Ranger District",
+      "x": -3.2691,
+      "y": 176.9805,
+      "r": 3,
+      "group": "other"
+    },
+    {
+      "id": "United States Forest Service - ARP",
+      "x": -3.3789,
+      "y": 186.1152,
+      "r": 3,
+      "group": "federal"
+    },
+    {
+      "id": "United States Forest Service Region 2",
+      "x": -2.1965,
+      "y": 163.8443,
+      "r": 3,
+      "group": "federal"
+    },
+    {
+      "id": "Watershed Center",
+      "x": -2.9378,
+      "y": 194.6041,
+      "r": 3,
+      "group": "other"
+    },
+    {
+      "id": "Watershed Groups: Coalition for the Poudre River Watershed, the Watershed Center, Coalition for the Upper South Platte",
+      "x": -2.6256,
+      "y": 161.4333,
+      "r": 3,
+      "group": "other"
+    },
+    {
+      "id": "Colorado Parks & Wildlife",
+      "x": -1.6497,
+      "y": 292.1559,
+      "r": 6.2915,
+      "group": "state"
+    },
+    {
+      "id": "City of Colorado Springs",
+      "x": -3.9379,
+      "y": 373.9693,
+      "r": 3,
+      "group": "state"
+    },
+    {
+      "id": "US Department of Defense",
+      "x": -5.4697,
+      "y": 328.1357,
+      "r": 3,
+      "group": "federal"
+    },
+    {
+      "id": "Colorado State Forest Service - Boulder Field Office",
+      "x": 0.5906,
+      "y": 339.3988,
+      "r": 7.9282,
+      "group": "state"
+    },
+    {
+      "id": "Colorado Parks and WIildlife",
+      "x": 0.1112,
+      "y": 430.166,
+      "r": 3,
+      "group": "state"
+    },
+    {
+      "id": "Colorado State Parks",
+      "x": -0.843,
+      "y": 427.5247,
+      "r": 3,
+      "group": "state"
+    },
+    {
+      "id": "Four Mile Fire Protection District",
+      "x": 1.5678,
+      "y": 428.5617,
+      "r": 3,
+      "group": "fire district"
+    },
+    {
+      "id": "Colorado State Forest Service - Fort Collins Field Office",
+      "x": 0.6155,
+      "y": 156.1156,
+      "r": 7.3246,
+      "group": "state"
+    },
+    {
+      "id": "Canyon Lakes RD, Arapahoe Roosevelt NF, USFS",
+      "x": 1.4055,
+      "y": 68.6005,
+      "r": 3,
+      "group": "federal"
+    },
+    {
+      "id": "Colorado Parks and Wildlife",
+      "x": -1.1673,
+      "y": 132.0995,
+      "r": 4.4641,
+      "group": "state"
+    },
+    {
+      "id": "Estes Valley Watershed Coalition",
+      "x": 2.7269,
+      "y": 210.2888,
+      "r": 10.1652,
+      "group": "other"
+    },
+    {
+      "id": "Larimer County DNR, OEM, Sherriff's Office",
+      "x": -1.1555,
+      "y": 202.7781,
+      "r": 7.6332,
+      "group": "local"
+    },
+    {
+      "id": "Most Fire Departments within Larimer County",
+      "x": 0.4798,
+      "y": 66.7419,
+      "r": 3,
+      "group": "local"
+    },
+    {
+      "id": "Colorado State University - Center for Collaborative Conservation",
+      "x": -5.7036,
+      "y": 160.8081,
+      "r": 3,
+      "group": "state"
+    },
+    {
+      "id": "Colorado State University - Colorado Forest Restoration Institute",
+      "x": -6.0531,
+      "y": 178.854,
+      "r": 3,
+      "group": "state"
+    },
+    {
+      "id": "The National Forest Foundation",
+      "x": -6.4845,
+      "y": 214.8398,
+      "r": 3,
+      "group": "federal"
+    },
+    {
+      "id": "The Nature Conservancy",
+      "x": -0.1192,
+      "y": 256.1049,
+      "r": 8.746,
+      "group": "ngo"
+    },
+    {
+      "id": "Colorado State Forest Service: Ft. Collins, Boulder, Golden, Salida, Woodland Park",
+      "x": -3.6248,
+      "y": 258.3225,
+      "r": 7.3246,
+      "group": "state"
+    },
+    {
+      "id": "Conifer Wildland Division",
+      "x": -6.7946,
+      "y": 207.8379,
+      "r": 3,
+      "group": "other"
+    },
+    {
+      "id": "Denver Mountain Parks",
+      "x": -6.7747,
+      "y": 260.598,
+      "r": 4.4641,
+      "group": "other"
+    },
+    {
+      "id": "Genesee Fire Protection District",
+      "x": -5.3208,
+      "y": 340.0141,
+      "r": 6.2915,
+      "group": "fire district"
+    },
+    {
+      "id": "Colorado State Forest Servicepie",
+      "x": -1.9255,
+      "y": 310.8124,
+      "r": 7.3246,
+      "group": "state"
+    },
+    {
+      "id": "Boulder County Forest Collaborative",
+      "x": -4.2381,
+      "y": 368.2143,
+      "r": 3,
+      "group": "local"
+    },
+    {
+      "id": "Boulder County government",
+      "x": -4.5437,
+      "y": 370.0977,
+      "r": 3,
+      "group": "local"
+    },
+    {
+      "id": "Elk Creek Fire Protection District",
+      "x": -2.9969,
+      "y": 262.6316,
+      "r": 7,
+      "group": "fire district"
+    },
+    {
+      "id": "United States Forest Service South Platte Ranger District",
+      "x": -3.233,
+      "y": 392.9445,
+      "r": 3,
+      "group": "federal"
+    },
+    {
+      "id": "Coal Creek Canyon Fire Protection District",
+      "x": -2.1428,
+      "y": 210.6531,
+      "r": 3.8284,
+      "group": "fire district"
+    },
+    {
+      "id": "Arkansas River Watershed Collaborative",
+      "x": -3.7356,
+      "y": 146.2412,
+      "r": 3,
+      "group": "ngo"
+    },
+    {
+      "id": "Bear Creek Watershed Foundation",
+      "x": -4.2148,
+      "y": 158.3514,
+      "r": 3,
+      "group": "ngo"
+    },
+    {
+      "id": "River Network",
+      "x": -4.7785,
+      "y": 180.0414,
+      "r": 3,
+      "group": "ngo"
+    },
+    {
+      "id": "Douglas County Office of Emergency Management",
+      "x": -3.1409,
+      "y": 297.1993,
+      "r": 5,
+      "group": "local"
+    },
+    {
+      "id": "South Metro Fire Rescue",
+      "x": -5.6297,
+      "y": 260.7289,
+      "r": 3.8284,
+      "group": "fire district"
+    },
+    {
+      "id": "Jefferson County",
+      "x": -0.1809,
+      "y": 191.5922,
+      "r": 4.4641,
+      "group": "local"
+    },
+    {
+      "id": "Estes Valley Fire District",
+      "x": 3.795,
+      "y": 177.5315,
+      "r": 5.4721,
+      "group": "fire district"
+    },
+    {
+      "id": "Wildfire Research Center-WiRe",
+      "x": 5.618,
+      "y": 287.7091,
+      "r": 3.8284,
+      "group": "other"
+    },
+    {
+      "id": "Estes Valley Land Trust",
+      "x": 0.0762,
+      "y": 208.9897,
+      "r": 6.2915,
+      "group": "federal"
+    },
+    {
+      "id": "Estes Park Fire Protection District",
+      "x": -0.5779,
+      "y": 91.0218,
+      "r": 3,
+      "group": "fire district"
+    },
+    {
+      "id": "Estes Park Middle School",
+      "x": 5.8646,
+      "y": 166.9339,
+      "r": 3,
+      "group": "other"
+    },
+    {
+      "id": "Estes Valley Fire Protection District",
+      "x": 5.8659,
+      "y": 183.5888,
+      "r": 4.4641,
+      "group": "fire district"
+    },
+    {
+      "id": "Larimer County Sheriff's Office - ES Wildfire Partners Program",
+      "x": 5.044,
+      "y": 138.9188,
+      "r": 3,
+      "group": "local"
+    },
+    {
+      "id": "Evergreen Fire",
+      "x": -4.8679,
+      "y": 300.2646,
+      "r": 6.6569,
+      "group": "fire district"
+    },
+    {
+      "id": "Indian Hills Fire Rescue",
+      "x": -8.0101,
+      "y": 316.9945,
+      "r": 3.8284,
+      "group": "fire district"
+    },
+    {
+      "id": "Clear Creek Watershed and Forest Health Collaborative",
+      "x": 1.6097,
+      "y": 410.4217,
+      "r": 3,
+      "group": "other"
+    },
+    {
+      "id": "Community Wildfire Planning Center",
+      "x": 4.2998,
+      "y": 374.9517,
+      "r": 3,
+      "group": "fire district"
+    },
+    {
+      "id": "FPDs of Mountain Metro Wildfire Mitigation Council: Elk Creek, Inter-Canyon, Genessee, Evergreen, West Metro, South Metro, Arvada",
+      "x": 3.2086,
+      "y": 398.4848,
+      "r": 3,
+      "group": "other"
+    },
+    {
+      "id": "Norther Colorado Fireshed Collaborative/ The Ember Alliance",
+      "x": 3.8388,
+      "y": 387.4345,
+      "r": 3,
+      "group": "state"
+    },
+    {
+      "id": "Southern Rockies Fire Science Network",
+      "x": 2.4451,
+      "y": 308.5108,
+      "r": 7,
+      "group": "fire district"
+    },
+    {
+      "id": "United States Forest Service - R2 Prevention & Mitigation",
+      "x": 2.2982,
+      "y": 408.2421,
+      "r": 3,
+      "group": "federal"
+    },
+    {
+      "id": "Fort Collins Natural Areas Dept",
+      "x": -11.1141,
+      "y": -17.2506,
+      "r": 3,
+      "group": "local"
+    },
+    {
+      "id": "n/a",
+      "x": -12.5963,
+      "y": 34.1768,
+      "r": 3,
+      "group": "other"
+    },
+    {
+      "id": "Foothills Fire Rescue",
+      "x": -8.1935,
+      "y": 374.3731,
+      "r": 3,
+      "group": "fire district"
+    },
+    {
+      "id": "HOA - Genesee Foundation",
+      "x": -7.4955,
+      "y": 399.964,
+      "r": 3,
+      "group": "ngo"
+    },
+    {
+      "id": "Inter-Canyon Fire Protection District",
+      "x": -7.301,
+      "y": 214.4297,
+      "r": 3.8284,
+      "group": "fire district"
+    },
+    {
+      "id": "Jefferson County Planning Department",
+      "x": -6.3078,
+      "y": 207.2004,
+      "r": 7,
+      "group": "local"
+    },
+    {
+      "id": "Conifer Area Council",
+      "x": -9.4352,
+      "y": 234.3666,
+      "r": 3,
+      "group": "other"
+    },
+    {
+      "id": "Jefferson County Board of County Commissioners",
+      "x": -9.0286,
+      "y": 184.625,
+      "r": 3,
+      "group": "local"
+    },
+    {
+      "id": "Jefferson County Planning Commission",
+      "x": -9.3367,
+      "y": 209.8782,
+      "r": 3,
+      "group": "local"
+    },
+    {
+      "id": "Jefferson County Transportation & Engineering",
+      "x": -8.605,
+      "y": 158.3186,
+      "r": 3,
+      "group": "local"
+    },
+    {
+      "id": "Jefferson County Wildfire Commission",
+      "x": -8.0239,
+      "y": 136.9147,
+      "r": 3,
+      "group": "local"
+    },
+    {
+      "id": "Colorado State Forest Service - Fort Collins",
+      "x": 4.2687,
+      "y": 131.3999,
+      "r": 3,
+      "group": "federal"
+    },
+    {
+      "id": "USDA Natural Resources Conservation Service - Fort Collins",
+      "x": 3.8901,
+      "y": 124.8868,
+      "r": 3,
+      "group": "federal"
+    },
+    {
+      "id": "United States Forest Service - Arapahoe Roosevelt",
+      "x": 5.2298,
+      "y": 159.0411,
+      "r": 3,
+      "group": "federal"
+    },
+    {
+      "id": "Boulder Moutain Fire Protectin District",
+      "x": -2.125,
+      "y": 89.5293,
+      "r": 3,
+      "group": "other"
+    },
+    {
+      "id": "City of Longmont, CO - Button Rock Preserve",
+      "x": -3.7676,
+      "y": 109.1854,
+      "r": 3,
+      "group": "local"
+    },
+    {
+      "id": "Colorado Department of Natural Resources - COSWAP",
+      "x": -1.2087,
+      "y": 81.4853,
+      "r": 3,
+      "group": "state"
+    },
+    {
+      "id": "Great Outdoors Colorado",
+      "x": 0.4472,
+      "y": 138.3657,
+      "r": 3.8284,
+      "group": "state"
+    },
+    {
+      "id": "Lefthand Canyon Fire Protection District",
+      "x": -3.0152,
+      "y": 98.6235,
+      "r": 3,
+      "group": "fire district"
+    },
+    {
+      "id": "Colorado Parks and WIldlife",
+      "x": -4.0626,
+      "y": 131.5657,
+      "r": 3,
+      "group": "state"
+    },
+    {
+      "id": "United States Forest Service - Canyon Lakes District",
+      "x": -2.7983,
+      "y": 109.9718,
+      "r": 3,
+      "group": "federal"
+    },
+    {
+      "id": "Larimer County Economic & Workforce Development",
+      "x": 1.1363,
+      "y": 89.4883,
+      "r": 3,
+      "group": "local"
+    },
+    {
+      "id": "Larimer County Sheriff's Office",
+      "x": -0.2282,
+      "y": 89.3157,
+      "r": 3,
+      "group": "local"
+    },
+    {
+      "id": "Boulder County Firefighters Association",
+      "x": -0.7584,
+      "y": 405.3317,
+      "r": 3,
+      "group": "local"
+    },
+    {
+      "id": "St Vrain Forestry Health Partners",
+      "x": -1.6512,
+      "y": 400.4026,
+      "r": 3,
+      "group": "other"
+    },
+    {
+      "id": "Longmont and Boulder Valley Conservation Districts",
+      "x": 1.7467,
+      "y": 292.3502,
+      "r": 6.6569,
+      "group": "local"
+    },
+    {
+      "id": "Natural Resource Conservation Service (NRCS)",
+      "x": 5.5968,
+      "y": 313.1065,
+      "r": 3,
+      "group": "other"
+    },
+    {
+      "id": "Boulder County Office of Emergency Managment",
+      "x": 5.9587,
+      "y": 410.9027,
+      "r": 3,
+      "group": "local"
+    },
+    {
+      "id": "Boulder County Sheriff",
+      "x": 4.7788,
+      "y": 431.6891,
+      "r": 3,
+      "group": "local"
+    },
+    {
+      "id": "Boulder County and Louisville Recovery Teams",
+      "x": 7.7377,
+      "y": 342.3401,
+      "r": 3,
+      "group": "local"
+    },
+    {
+      "id": "Butterfly Pavilion",
+      "x": 5.365,
+      "y": 420.5318,
+      "r": 3,
+      "group": "other"
+    },
+    {
+      "id": "Louisville Fire and Open Space Dpts",
+      "x": 6.8086,
+      "y": 383.9929,
+      "r": 3,
+      "group": "other"
+    },
+    {
+      "id": "Mountain View Fire Rescue",
+      "x": 7.528,
+      "y": 356.4977,
+      "r": 3,
+      "group": "fire district"
+    },
+    {
+      "id": "Mt View Fire District",
+      "x": 6.4079,
+      "y": 400.2209,
+      "r": 3,
+      "group": "fire district"
+    },
+    {
+      "id": "State of Colorado",
+      "x": 7.1829,
+      "y": 373.2631,
+      "r": 3,
+      "group": "state"
+    },
+    {
+      "id": "Clear Creek Watershed and Forest Health Partnership",
+      "x": 3.4713,
+      "y": 222.384,
+      "r": 5,
+      "group": "other"
+    },
+    {
+      "id": "Poudre Canyon Fire Protection District",
+      "x": 1.3232,
+      "y": 191.2491,
+      "r": 6.6569,
+      "group": "fire district"
+    },
+    {
+      "id": "Pike - San Isabel National Forest",
+      "x": -0.159,
+      "y": 318.6585,
+      "r": 5,
+      "group": "federal"
+    },
+    {
+      "id": "there's too many, partnership coordinator would have a list",
+      "x": 0.0996,
+      "y": 241.7904,
+      "r": 3,
+      "group": "other"
+    },
+    {
+      "id": "Glacier View Fire Protection District",
+      "x": 3.277,
+      "y": 102.074,
+      "r": 3,
+      "group": "fire district"
+    },
+    {
+      "id": "Larimer County Emergency Services",
+      "x": -0.6289,
+      "y": 107.6397,
+      "r": 3.8284,
+      "group": "local"
+    },
+    {
+      "id": "Upper Poudre Watershed Stakholder Committee",
+      "x": 2.4053,
+      "y": 92.3871,
+      "r": 3,
+      "group": "other"
+    },
+    {
+      "id": "Rocky Mountain Conservancy",
+      "x": -2.9148,
+      "y": 57.7526,
+      "r": 5.899,
+      "group": "ngo"
+    },
+    {
+      "id": "Boulder Climbing Community",
+      "x": -5.395,
+      "y": 20.3419,
+      "r": 3,
+      "group": "other"
+    },
+    {
+      "id": "Canyon Lakes Ranger District",
+      "x": -1.0331,
+      "y": -14.8873,
+      "r": 3,
+      "group": "other"
+    },
+    {
+      "id": "Environmental Learning for Kids",
+      "x": -2.0641,
+      "y": -12.4372,
+      "r": 3,
+      "group": "other"
+    },
+    {
+      "id": "Nature Kids",
+      "x": -3.4203,
+      "y": -4.8438,
+      "r": 3,
+      "group": "other"
+    },
+    {
+      "id": "Poudre Wilderness Volunteers",
+      "x": -4.5178,
+      "y": 6.6872,
+      "r": 3,
+      "group": "ngo"
+    },
+    {
+      "id": "Rocky Mountain Restoration Institute",
+      "x": -1.7914,
+      "y": 252.9646,
+      "r": 6.2915,
+      "group": "ngo"
+    },
+    {
+      "id": "National Wild Turkey Federation",
+      "x": 2.5966,
+      "y": 179.1731,
+      "r": 3.8284,
+      "group": "ngo"
+    },
+    {
+      "id": "Great Plains Fire Science Exchange",
+      "x": 6.1174,
+      "y": 337.7325,
+      "r": 3,
+      "group": "fire district"
+    },
+    {
+      "id": "Trees Water People",
+      "x": 5.714,
+      "y": 356.0842,
+      "r": 3,
+      "group": "other"
+    },
+    {
+      "id": "St. Vrain and Left Hand Water Conservancy District",
+      "x": 3.8035,
+      "y": 253.1427,
+      "r": 5.4721,
+      "group": "fire district"
+    },
+    {
+      "id": "Town of Jamestown",
+      "x": 7.8008,
+      "y": 246.5985,
+      "r": 3,
+      "group": "local"
+    },
+    {
+      "id": "Fire Adapted Communities Learning Network (FACNET)",
+      "x": 2.6795,
+      "y": 155.6529,
+      "r": 3,
+      "group": "other"
+    },
+    {
+      "id": "Front Range Community College",
+      "x": 1.9846,
+      "y": 145.2561,
+      "r": 3,
+      "group": "other"
+    },
+    {
+      "id": "Nederland Fire Protection District",
+      "x": 1.4619,
+      "y": 141.5204,
+      "r": 3,
+      "group": "fire district"
+    },
+    {
+      "id": "St. Vrain Forest Health Partnership",
+      "x": 3.1515,
+      "y": 268.088,
+      "r": 4.4641,
+      "group": "other"
+    },
+    {
+      "id": "Arapahoe NF, USFS",
+      "x": -3.1639,
+      "y": 329.4369,
+      "r": 3,
+      "group": "federal"
+    },
+    {
+      "id": "Western Resource Advocates",
+      "x": 2.641,
+      "y": 279.8517,
+      "r": 5,
+      "group": "other"
+    },
+    {
+      "id": "Allenspark Fire Protection District",
+      "x": 1.7875,
+      "y": 351.0538,
+      "r": 3,
+      "group": "fire district"
+    },
+    {
+      "id": "Rocky Mountain National Park",
+      "x": 1.6111,
+      "y": 105.7597,
+      "r": 3.8284,
+      "group": "federal"
+    },
+    {
+      "id": "Trihydro Corporation",
+      "x": 4.897,
+      "y": 147.607,
+      "r": 3,
+      "group": "other"
+    },
+    {
+      "id": "U.S. Forest Service",
+      "x": 2.1221,
+      "y": 243.6257,
+      "r": 13.3288,
+      "group": "federal"
+    },
+    {
+      "id": "American Forest Foundation",
+      "x": 4.4792,
+      "y": 200.9161,
+      "r": 3,
+      "group": "ngo"
+    },
+    {
+      "id": "Boulder County Fire Departments",
+      "x": 4.0126,
+      "y": 179.9285,
+      "r": 3,
+      "group": "local"
+    },
+    {
+      "id": "Boulder County PIO Group",
+      "x": 4.2918,
+      "y": 191.7643,
+      "r": 3,
+      "group": "local"
+    },
+    {
+      "id": "Boulder County Sheriff's Office",
+      "x": 5.0918,
+      "y": 230.6982,
+      "r": 3,
+      "group": "local"
+    },
+    {
+      "id": "Central Colorado Forest Collaborative",
+      "x": 4.9909,
+      "y": 256.4238,
+      "r": 3,
+      "group": "state"
+    },
+    {
+      "id": "Colorado Dept of Fire Prevention and Control",
+      "x": 4.7065,
+      "y": 241.7037,
+      "r": 3,
+      "group": "state"
+    },
+    {
+      "id": "Fire adapted Colorado",
+      "x": 4.9968,
+      "y": 218.4172,
+      "r": 3,
+      "group": "state"
+    },
+    {
+      "id": "Grand County Fire Protection District No.1",
+      "x": 4.6037,
+      "y": 271.4397,
+      "r": 3,
+      "group": "local"
+    },
+    {
+      "id": "Magnolia Forest Group NFP",
+      "x": 5.2179,
+      "y": 245.2093,
+      "r": 3,
+      "group": "other"
+    },
+    {
+      "id": "Mule Deer Foundation",
+      "x": 5.0387,
+      "y": 264.0678,
+      "r": 3,
+      "group": "ngo"
+    },
+    {
+      "id": "Northern Colorado Places",
+      "x": 4.6199,
+      "y": 208.2132,
+      "r": 3,
+      "group": "state"
+    },
+    {
+      "id": "Summit County Public Health",
+      "x": 4.6253,
+      "y": 282.4543,
+      "r": 3,
+      "group": "local"
+    },
+    {
+      "id": "The Nature Conservancy Colorado",
+      "x": 4.6245,
+      "y": 224.1845,
+      "r": 3,
+      "group": "state"
+    },
+    {
+      "id": "US Forest Service - Arapahoe Roosevelt",
+      "x": -0.4234,
+      "y": 196.2124,
+      "r": 7.3246,
+      "group": "federal"
+    },
+    {
+      "id": "USFS",
+      "x": -2.2996,
+      "y": 264.5702,
+      "r": 9,
+      "group": "federal"
+    },
+    {
+      "id": "North Fork Fire Protection District",
+      "x": -5.9715,
+      "y": 258.0442,
+      "r": 3,
+      "group": "fire district"
+    },
+    {
+      "id": "USFS ARP - Canyon Lakes Ranger District",
+      "x": 0.1591,
+      "y": 237.6865,
+      "r": 7.3246,
+      "group": "federal"
+    },
+    {
+      "id": "United States Forest Service - Pikes Peak Ranger District",
+      "x": -1.6448,
+      "y": 244.6658,
+      "r": 5.4721,
+      "group": "federal"
+    },
+    {
+      "id": "Colorado Ag Water Alliance",
+      "x": 7.4021,
+      "y": 218.921,
+      "r": 3,
+      "group": "state"
+    },
+    {
+      "id": "WiRe",
+      "x": 6.4299,
+      "y": 219.3937,
+      "r": 6.6569,
+      "group": "other"
+    },
+    {
+      "id": "Platte Canyon Fire Protection District",
+      "x": 9.3159,
+      "y": 220.1934,
+      "r": 3,
+      "group": "fire district"
+    },
+    {
+      "id": "The Watershed Center (St Vrain)",
+      "x": 9.1866,
+      "y": 198.2196,
+      "r": 3,
+      "group": "other"
+    },
+    {
+      "id": "United States Forest Service- Rocky Mountain Research Station",
+      "x": 8.5786,
+      "y": 153.7584,
+      "r": 3,
+      "group": "federal"
+    },
+    {
+      "id": "University of Colorado Boulder",
+      "x": 8.9676,
+      "y": 179.1857,
+      "r": 3,
+      "group": "local"
+    }
+  ],
+  "directed": [true]
+}
