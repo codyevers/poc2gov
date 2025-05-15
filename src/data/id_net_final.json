@@ -1,0 +1,1357 @@
+{
+  "edges": [
+    {
+      "source": "American Forest Resources Council",
+      "target": "Boise Cascade",
+      "count": 1
+    },
+    {
+      "source": "American Forest Resources Council",
+      "target": "Weyerhaeuser",
+      "count": 1
+    },
+    {
+      "source": "American Forest Resources Council",
+      "target": "Woodgrain, Inc.",
+      "count": 1
+    },
+    {
+      "source": "Boise County",
+      "target": "Boise County",
+      "count": 1
+    },
+    {
+      "source": "Boise County",
+      "target": "National Forest Foundation",
+      "count": 1
+    },
+    {
+      "source": "Boise County",
+      "target": "State of Idaho",
+      "count": 1
+    },
+    {
+      "source": "Boise County",
+      "target": "United States Forest Service",
+      "count": 1
+    },
+    {
+      "source": "Boise County",
+      "target": "Valley County",
+      "count": 1
+    },
+    {
+      "source": "Boise Forest Coalition",
+      "target": "Idaho Conservation League",
+      "count": 1
+    },
+    {
+      "source": "Boise Forest Coalition",
+      "target": "Society of American Foresters",
+      "count": 1
+    },
+    {
+      "source": "Boise Forest Coalition",
+      "target": "State of Idaho",
+      "count": 1
+    },
+    {
+      "source": "Boise Forest Coalition",
+      "target": "United States Forest Service",
+      "count": 1
+    },
+    {
+      "source": "Bureau of Land Management",
+      "target": "Army National Guard",
+      "count": 1
+    },
+    {
+      "source": "Bureau of Land Management",
+      "target": "City of Boise",
+      "count": 1
+    },
+    {
+      "source": "Bureau of Land Management",
+      "target": "Idaho Power",
+      "count": 1
+    },
+    {
+      "source": "Bureau of Land Management",
+      "target": "National Interagency Fire Center",
+      "count": 1
+    },
+    {
+      "source": "Bureau of Land Management",
+      "target": "State of Idaho",
+      "count": 1
+    },
+    {
+      "source": "Bureau of Land Management",
+      "target": "United States Forest Service",
+      "count": 1
+    },
+    {
+      "source": "City of Boise",
+      "target": "Bureau of Land Management",
+      "count": 1
+    },
+    {
+      "source": "City of Boise",
+      "target": "City of Boise Fire Department",
+      "count": 1
+    },
+    {
+      "source": "City of Boise",
+      "target": "Idaho Prescribed Fire Council",
+      "count": 1
+    },
+    {
+      "source": "City of Boise",
+      "target": "State of Idaho",
+      "count": 1
+    },
+    {
+      "source": "City of Boise",
+      "target": "University of Idaho",
+      "count": 1
+    },
+    {
+      "source": "Elmore County",
+      "target": "Bureau of Land Management",
+      "count": 1
+    },
+    {
+      "source": "Elmore County",
+      "target": "State of Idaho",
+      "count": 1
+    },
+    {
+      "source": "Elmore County",
+      "target": "United States Forest Service",
+      "count": 1
+    },
+    {
+      "source": "Emmett Fire Department",
+      "target": "Western Fire Chiefs Association",
+      "count": 1
+    },
+    {
+      "source": "Gem County",
+      "target": "Gem County",
+      "count": 1
+    },
+    {
+      "source": "Gem County",
+      "target": "State of Idaho",
+      "count": 1
+    },
+    {
+      "source": "Gem County",
+      "target": "United States Forest Service",
+      "count": 1
+    },
+    {
+      "source": "Grossman Company Properties",
+      "target": "Southwest Idaho All-Lands Partnership",
+      "count": 1
+    },
+    {
+      "source": "Idaho Cattle Association",
+      "target": "Bureau of Land Management",
+      "count": 1
+    },
+    {
+      "source": "Idaho Cattle Association",
+      "target": "State of Idaho",
+      "count": 1
+    },
+    {
+      "source": "Idaho Cattle Association",
+      "target": "United States Forest Service",
+      "count": 1
+    },
+    {
+      "source": "Idaho Conservation League",
+      "target": "National Forest Foundation",
+      "count": 1
+    },
+    {
+      "source": "Idaho Conservation League",
+      "target": "Society of American Foresters",
+      "count": 1
+    },
+    {
+      "source": "Idaho Conservation League",
+      "target": "State of Idaho",
+      "count": 1
+    },
+    {
+      "source": "Idaho Conservation League",
+      "target": "United States Forest Service",
+      "count": 1
+    },
+    {
+      "source": "Land Trust of the Treasure Valley",
+      "target": "City of Boise",
+      "count": 1
+    },
+    {
+      "source": "Land Trust of the Treasure Valley",
+      "target": "Natural Resources Conservation Service",
+      "count": 1
+    },
+    {
+      "source": "Montana Conservation Corps",
+      "target": "United States Forest Service",
+      "count": 1
+    },
+    {
+      "source": "National Forest Foundation",
+      "target": "Adams County",
+      "count": 1
+    },
+    {
+      "source": "National Forest Foundation",
+      "target": "Boise City Fire",
+      "count": 1
+    },
+    {
+      "source": "National Forest Foundation",
+      "target": "Boise County",
+      "count": 1
+    },
+    {
+      "source": "National Forest Foundation",
+      "target": "Boise State University",
+      "count": 1
+    },
+    {
+      "source": "National Forest Foundation",
+      "target": "Bureau of Land Management",
+      "count": 1
+    },
+    {
+      "source": "National Forest Foundation",
+      "target": "Idaho Power",
+      "count": 1
+    },
+    {
+      "source": "National Forest Foundation",
+      "target": "Natural Resources Conservation Service",
+      "count": 1
+    },
+    {
+      "source": "National Forest Foundation",
+      "target": "Payette Forest Coalition",
+      "count": 1
+    },
+    {
+      "source": "National Forest Foundation",
+      "target": "State of Idaho",
+      "count": 1
+    },
+    {
+      "source": "National Forest Foundation",
+      "target": "United States Fish and Wildlife Service",
+      "count": 1
+    },
+    {
+      "source": "National Forest Foundation",
+      "target": "United States Forest Service",
+      "count": 1
+    },
+    {
+      "source": "National Forest Foundation",
+      "target": "Valley County",
+      "count": 1
+    },
+    {
+      "source": "National Forest Foundation",
+      "target": "Vibranet Planet",
+      "count": 1
+    },
+    {
+      "source": "National Forest Foundation",
+      "target": "Wilderness Ranch Fire Protection District",
+      "count": 1
+    },
+    {
+      "source": "National Wild Turkey Federation",
+      "target": "Idaho Power",
+      "count": 1
+    },
+    {
+      "source": "National Wild Turkey Federation",
+      "target": "United States Forest Service",
+      "count": 1
+    },
+    {
+      "source": "Natural Resources Conservation Service",
+      "target": "State of Idaho",
+      "count": 1
+    },
+    {
+      "source": "Natural Resources Conservation Service",
+      "target": "United States Army",
+      "count": 1
+    },
+    {
+      "source": "Natural Resources Conservation Service",
+      "target": "United States Forest Service",
+      "count": 1
+    },
+    {
+      "source": "Northwest Youth Corps",
+      "target": "Bogus Basin Mountain Recreation Area",
+      "count": 1
+    },
+    {
+      "source": "Northwest Youth Corps",
+      "target": "Boise County",
+      "count": 1
+    },
+    {
+      "source": "Northwest Youth Corps",
+      "target": "Boise State University",
+      "count": 1
+    },
+    {
+      "source": "Northwest Youth Corps",
+      "target": "Bureau of Land Management",
+      "count": 1
+    },
+    {
+      "source": "Northwest Youth Corps",
+      "target": "City of Boise",
+      "count": 1
+    },
+    {
+      "source": "Northwest Youth Corps",
+      "target": "Land Trust of the Treasure Valley",
+      "count": 1
+    },
+    {
+      "source": "Northwest Youth Corps",
+      "target": "National Forest Foundation",
+      "count": 1
+    },
+    {
+      "source": "Northwest Youth Corps",
+      "target": "State of Idaho",
+      "count": 1
+    },
+    {
+      "source": "Northwest Youth Corps",
+      "target": "United States Forest Service",
+      "count": 1
+    },
+    {
+      "source": "State of Idaho",
+      "target": "Ada Fire Adapted Communities",
+      "count": 1
+    },
+    {
+      "source": "State of Idaho",
+      "target": "Adams County",
+      "count": 1
+    },
+    {
+      "source": "State of Idaho",
+      "target": "Adams Soil and Water Conservation District",
+      "count": 1
+    },
+    {
+      "source": "State of Idaho",
+      "target": "Boise County",
+      "count": 1
+    },
+    {
+      "source": "State of Idaho",
+      "target": "Boise Forest Coalition",
+      "count": 1
+    },
+    {
+      "source": "State of Idaho",
+      "target": "Bureau of Land Management",
+      "count": 1
+    },
+    {
+      "source": "State of Idaho",
+      "target": "City of Boise",
+      "count": 1
+    },
+    {
+      "source": "State of Idaho",
+      "target": "City of Boise Fire Department",
+      "count": 1
+    },
+    {
+      "source": "State of Idaho",
+      "target": "Gem County",
+      "count": 1
+    },
+    {
+      "source": "State of Idaho",
+      "target": "Idaho Conservation League",
+      "count": 1
+    },
+    {
+      "source": "State of Idaho",
+      "target": "Idaho Fire Chiefs Association",
+      "count": 1
+    },
+    {
+      "source": "State of Idaho",
+      "target": "Idaho Wildlife Federation",
+      "count": 1
+    },
+    {
+      "source": "State of Idaho",
+      "target": "National Forest Foundation",
+      "count": 1
+    },
+    {
+      "source": "State of Idaho",
+      "target": "Payette Forest Coalition",
+      "count": 1
+    },
+    {
+      "source": "State of Idaho",
+      "target": "Society of American Foresters",
+      "count": 1
+    },
+    {
+      "source": "State of Idaho",
+      "target": "Southern Idaho Timber Protective Association",
+      "count": 1
+    },
+    {
+      "source": "State of Idaho",
+      "target": "Southwest Idaho All-Lands Partnership",
+      "count": 1
+    },
+    {
+      "source": "State of Idaho",
+      "target": "State of Idaho",
+      "count": 1
+    },
+    {
+      "source": "State of Idaho",
+      "target": "Trout Unlimited",
+      "count": 1
+    },
+    {
+      "source": "State of Idaho",
+      "target": "United States Forest Service",
+      "count": 1
+    },
+    {
+      "source": "State of Idaho",
+      "target": "Valley County",
+      "count": 1
+    },
+    {
+      "source": "State of Idaho",
+      "target": "Valley County Fire Working Group",
+      "count": 1
+    },
+    {
+      "source": "The Keystone Concept, LLC",
+      "target": "City of Boise",
+      "count": 1
+    },
+    {
+      "source": "The Keystone Concept, LLC",
+      "target": "Idaho Forest Restoration Partnership",
+      "count": 1
+    },
+    {
+      "source": "The Keystone Concept, LLC",
+      "target": "State of Idaho",
+      "count": 1
+    },
+    {
+      "source": "The Keystone Concept, LLC",
+      "target": "United States Congress",
+      "count": 1
+    },
+    {
+      "source": "The Keystone Concept, LLC",
+      "target": "United States Forest Service",
+      "count": 1
+    },
+    {
+      "source": "The Nature Conservancy",
+      "target": "State of Idaho",
+      "count": 1
+    },
+    {
+      "source": "The Nature Conservancy",
+      "target": "United States Forest Service",
+      "count": 1
+    },
+    {
+      "source": "Thorn Creek Volunteer Fire Department",
+      "target": "Boise County",
+      "count": 1
+    },
+    {
+      "source": "Thorn Creek Volunteer Fire Department",
+      "target": "City of Centerville Volunteer Fire Department",
+      "count": 1
+    },
+    {
+      "source": "Thorn Creek Volunteer Fire Department",
+      "target": "City of Idaho City Volunteer Fire District",
+      "count": 1
+    },
+    {
+      "source": "Thorn Creek Volunteer Fire Department",
+      "target": "State of Idaho",
+      "count": 1
+    },
+    {
+      "source": "Thorn Creek Volunteer Fire Department",
+      "target": "Thorn Creek Volunteer Fire Department",
+      "count": 1
+    },
+    {
+      "source": "Thorn Creek Volunteer Fire Department",
+      "target": "United States Forest Service",
+      "count": 1
+    },
+    {
+      "source": "Thorn Creek Volunteer Fire Department",
+      "target": "Wilderness Ranch Fire Protection District",
+      "count": 1
+    },
+    {
+      "source": "Treasure Valley Canopy Network",
+      "target": "Ada County",
+      "count": 1
+    },
+    {
+      "source": "Treasure Valley Canopy Network",
+      "target": "Boise State University",
+      "count": 1
+    },
+    {
+      "source": "Treasure Valley Canopy Network",
+      "target": "City of Boise",
+      "count": 1
+    },
+    {
+      "source": "Treasure Valley Canopy Network",
+      "target": "Southwest Idaho Resource Conservation and Development",
+      "count": 1
+    },
+    {
+      "source": "United State Department of Agriculture",
+      "target": "Great Basin Institute",
+      "count": 1
+    },
+    {
+      "source": "United State Department of Agriculture",
+      "target": "Job Corps",
+      "count": 1
+    },
+    {
+      "source": "United State Department of Agriculture",
+      "target": "The Nature Conservancy",
+      "count": 1
+    },
+    {
+      "source": "United State Department of Agriculture",
+      "target": "United States Forest Service",
+      "count": 1
+    },
+    {
+      "source": "United States Fish and Wildlife Service",
+      "target": "Bureau of Land Management",
+      "count": 1
+    },
+    {
+      "source": "United States Fish and Wildlife Service",
+      "target": "Natural Resources Conservation Service",
+      "count": 1
+    },
+    {
+      "source": "United States Fish and Wildlife Service",
+      "target": "State of Idaho",
+      "count": 1
+    },
+    {
+      "source": "United States Fish and Wildlife Service",
+      "target": "United States Fish and Wildlife Service",
+      "count": 1
+    },
+    {
+      "source": "United States Fish and Wildlife Service",
+      "target": "United States Forest Service",
+      "count": 1
+    },
+    {
+      "source": "United States Forest Service",
+      "target": "Ada Fire Adapted Communities",
+      "count": 1
+    },
+    {
+      "source": "United States Forest Service",
+      "target": "Adams County",
+      "count": 1
+    },
+    {
+      "source": "United States Forest Service",
+      "target": "Boise County",
+      "count": 1
+    },
+    {
+      "source": "United States Forest Service",
+      "target": "Boise Forest Coalition",
+      "count": 1
+    },
+    {
+      "source": "United States Forest Service",
+      "target": "Boise Interagency Dispatch Center",
+      "count": 1
+    },
+    {
+      "source": "United States Forest Service",
+      "target": "Bureau of Land Management",
+      "count": 1
+    },
+    {
+      "source": "United States Forest Service",
+      "target": "Great Basin Institute",
+      "count": 1
+    },
+    {
+      "source": "United States Forest Service",
+      "target": "Idaho Conservation Corps",
+      "count": 1
+    },
+    {
+      "source": "United States Forest Service",
+      "target": "Idaho Corps",
+      "count": 1
+    },
+    {
+      "source": "United States Forest Service",
+      "target": "Idaho Power",
+      "count": 1
+    },
+    {
+      "source": "United States Forest Service",
+      "target": "Idaho Prescribed Fire Council",
+      "count": 1
+    },
+    {
+      "source": "United States Forest Service",
+      "target": "Montana Conservation Corps",
+      "count": 1
+    },
+    {
+      "source": "United States Forest Service",
+      "target": "National Forest Foundation",
+      "count": 1
+    },
+    {
+      "source": "United States Forest Service",
+      "target": "National Park Service",
+      "count": 1
+    },
+    {
+      "source": "United States Forest Service",
+      "target": "National Wild Turkey Federation",
+      "count": 1
+    },
+    {
+      "source": "United States Forest Service",
+      "target": "Natural Resources Conservation Service",
+      "count": 1
+    },
+    {
+      "source": "United States Forest Service",
+      "target": "Payette Forest Coalition",
+      "count": 1
+    },
+    {
+      "source": "United States Forest Service",
+      "target": "Southern Idaho Timber Protective Association",
+      "count": 1
+    },
+    {
+      "source": "United States Forest Service",
+      "target": "Southwest Idaho All-Lands Partnership",
+      "count": 1
+    },
+    {
+      "source": "United States Forest Service",
+      "target": "State of Idaho",
+      "count": 1
+    },
+    {
+      "source": "United States Forest Service",
+      "target": "The Nature Conservancy",
+      "count": 1
+    },
+    {
+      "source": "United States Forest Service",
+      "target": "Valley County",
+      "count": 1
+    },
+    {
+      "source": "United States Forest Service",
+      "target": "Valley County Fire Working Group",
+      "count": 1
+    },
+    {
+      "source": "United States Forest Service",
+      "target": "Wilderness Ranch Fire Protection District",
+      "count": 1
+    },
+    {
+      "source": "Vibranet Planet",
+      "target": "National Forest Foundation",
+      "count": 1
+    },
+    {
+      "source": "Vibranet Planet",
+      "target": "State of Idaho",
+      "count": 1
+    },
+    {
+      "source": "Vibranet Planet",
+      "target": "United States Fish and Wildlife Service",
+      "count": 1
+    },
+    {
+      "source": "Vibranet Planet",
+      "target": "United States Forest Service",
+      "count": 1
+    },
+    {
+      "source": "Wilderness Ranch Fire Protection District",
+      "target": "Boise County",
+      "count": 1
+    },
+    {
+      "source": "Wilderness Ranch Fire Protection District",
+      "target": "National Forest Foundation",
+      "count": 1
+    },
+    {
+      "source": "Wilderness Ranch Fire Protection District",
+      "target": "State of Idaho",
+      "count": 1
+    },
+    {
+      "source": "Wilderness Ranch Fire Protection District",
+      "target": "United States Forest Service",
+      "count": 1
+    },
+    {
+      "source": "Wilderness Ranch Fire Protection District",
+      "target": "Wilderness Ranch Homeowners' Association",
+      "count": 1
+    },
+    {
+      "source": "Wildfire Prevention Associates",
+      "target": "Cascade Rural Fire Department",
+      "count": 1
+    },
+    {
+      "source": "Wildfire Prevention Associates",
+      "target": "Donnelly Rural Fire District",
+      "count": 1
+    },
+    {
+      "source": "Wildfire Prevention Associates",
+      "target": "McCall Fire Protection District",
+      "count": 1
+    },
+    {
+      "source": "Wildfire Prevention Associates",
+      "target": "Southern Idaho Timber Protective Association",
+      "count": 1
+    },
+    {
+      "source": "Wildfire Prevention Associates",
+      "target": "State of Idaho",
+      "count": 1
+    },
+    {
+      "source": "Wildfire Prevention Associates",
+      "target": "United States Forest Service",
+      "count": 1
+    },
+    {
+      "source": "Wildfire Prevention Associates",
+      "target": "Valley County",
+      "count": 1
+    }
+  ],
+  "vertices": [
+    {
+      "id": "American Forest Resources Council",
+      "x": 440.2905,
+      "y": 279.4023,
+      "group": "ngo",
+      "degree": 0,
+      "r": 1
+    },
+    {
+      "id": "Boise Cascade",
+      "x": 448.4717,
+      "y": 299.6574,
+      "group": "other",
+      "degree": 1,
+      "r": 4
+    },
+    {
+      "id": "Weyerhaeuser",
+      "x": 424.222,
+      "y": 306.8841,
+      "group": "other",
+      "degree": 1,
+      "r": 4
+    },
+    {
+      "id": "Woodgrain, Inc.",
+      "x": 451.6007,
+      "y": 251.8748,
+      "group": "other",
+      "degree": 1,
+      "r": 4
+    },
+    {
+      "id": "Boise County",
+      "x": 247.1439,
+      "y": 200.1411,
+      "group": "local",
+      "degree": 7,
+      "r": 8.9373
+    },
+    {
+      "id": "National Forest Foundation",
+      "x": 244.8115,
+      "y": 222.8889,
+      "group": "ngo",
+      "degree": 7,
+      "r": 8.9373
+    },
+    {
+      "id": "State of Idaho",
+      "x": 274.076,
+      "y": 220.9537,
+      "group": "state",
+      "degree": 20,
+      "r": 14.4164
+    },
+    {
+      "id": "United States Forest Service",
+      "x": 261.5934,
+      "y": 190.1337,
+      "group": "federal",
+      "degree": 21,
+      "r": 14.7477
+    },
+    {
+      "id": "Valley County",
+      "x": 284.1733,
+      "y": 186.3455,
+      "group": "local",
+      "degree": 5,
+      "r": 7.7082
+    },
+    {
+      "id": "Boise Forest Coalition",
+      "x": 297.0408,
+      "y": 214.0134,
+      "group": "other",
+      "degree": 2,
+      "r": 5.2426
+    },
+    {
+      "id": "Idaho Conservation League",
+      "x": 293.1605,
+      "y": 229.5947,
+      "group": "ngo",
+      "degree": 2,
+      "r": 5.2426
+    },
+    {
+      "id": "Society of American Foresters",
+      "x": 321.9832,
+      "y": 238.9527,
+      "group": "ngo",
+      "degree": 3,
+      "r": 6.1962
+    },
+    {
+      "id": "Bureau of Land Management",
+      "x": 222.3476,
+      "y": 233.9257,
+      "group": "federal",
+      "degree": 8,
+      "r": 9.4853
+    },
+    {
+      "id": "Army National Guard",
+      "x": 158.0464,
+      "y": 248.2027,
+      "group": "federal",
+      "degree": 1,
+      "r": 4
+    },
+    {
+      "id": "City of Boise",
+      "x": 235.6081,
+      "y": 272.7672,
+      "group": "local",
+      "degree": 6,
+      "r": 8.3485
+    },
+    {
+      "id": "Idaho Power",
+      "x": 206.5418,
+      "y": 196.3754,
+      "group": "other",
+      "degree": 4,
+      "r": 7
+    },
+    {
+      "id": "National Interagency Fire Center",
+      "x": 165.332,
+      "y": 271.5294,
+      "group": "federal",
+      "degree": 1,
+      "r": 4
+    },
+    {
+      "id": "City of Boise Fire Department",
+      "x": 273.0214,
+      "y": 287.3368,
+      "group": "fire",
+      "degree": 2,
+      "r": 5.2426
+    },
+    {
+      "id": "Idaho Prescribed Fire Council",
+      "x": 270.718,
+      "y": 261.7356,
+      "group": "other",
+      "degree": 2,
+      "r": 5.2426
+    },
+    {
+      "id": "University of Idaho",
+      "x": 204.1209,
+      "y": 327.2742,
+      "group": "other",
+      "degree": 1,
+      "r": 4
+    },
+    {
+      "id": "Elmore County",
+      "x": 257.1506,
+      "y": 235.6412,
+      "group": "local",
+      "degree": 0,
+      "r": 1
+    },
+    {
+      "id": "Emmett Fire Department",
+      "x": 344.5569,
+      "y": 391.2744,
+      "group": "fire",
+      "degree": 0,
+      "r": 1
+    },
+    {
+      "id": "Western Fire Chiefs Association",
+      "x": 365.0216,
+      "y": 379.7971,
+      "group": "ngo",
+      "degree": 1,
+      "r": 4
+    },
+    {
+      "id": "Gem County",
+      "x": 308.1603,
+      "y": 206.9332,
+      "group": "local",
+      "degree": 2,
+      "r": 5.2426
+    },
+    {
+      "id": "Grossman Company Properties",
+      "x": 393.1186,
+      "y": 199.886,
+      "group": "other",
+      "degree": 0,
+      "r": 1
+    },
+    {
+      "id": "Southwest Idaho All-Lands Partnership",
+      "x": 334.7101,
+      "y": 201.3152,
+      "group": "ngo",
+      "degree": 3,
+      "r": 6.1962
+    },
+    {
+      "id": "Idaho Cattle Association",
+      "x": 221.1077,
+      "y": 208.2315,
+      "group": "other",
+      "degree": 0,
+      "r": 1
+    },
+    {
+      "id": "Land Trust of the Treasure Valley",
+      "x": 216.4612,
+      "y": 290.4757,
+      "group": "ngo",
+      "degree": 1,
+      "r": 4
+    },
+    {
+      "id": "Natural Resources Conservation Service",
+      "x": 254.3191,
+      "y": 253.6963,
+      "group": "federal",
+      "degree": 4,
+      "r": 7
+    },
+    {
+      "id": "Montana Conservation Corps",
+      "x": 266.5375,
+      "y": 145.0273,
+      "group": "federal",
+      "degree": 1,
+      "r": 4
+    },
+    {
+      "id": "Adams County",
+      "x": 275.3928,
+      "y": 201.3329,
+      "group": "local",
+      "degree": 3,
+      "r": 6.1962
+    },
+    {
+      "id": "Boise City Fire",
+      "x": 184.9091,
+      "y": 250.3276,
+      "group": "fire",
+      "degree": 1,
+      "r": 4
+    },
+    {
+      "id": "Boise State University",
+      "x": 233.199,
+      "y": 295.255,
+      "group": "other",
+      "degree": 3,
+      "r": 6.1962
+    },
+    {
+      "id": "Payette Forest Coalition",
+      "x": 279.6835,
+      "y": 239.5201,
+      "group": "other",
+      "degree": 3,
+      "r": 6.1962
+    },
+    {
+      "id": "United States Fish and Wildlife Service",
+      "x": 239.8122,
+      "y": 233.7641,
+      "group": "federal",
+      "degree": 3,
+      "r": 6.1962
+    },
+    {
+      "id": "Vibranet Planet",
+      "x": 236.3733,
+      "y": 209.9038,
+      "group": "other",
+      "degree": 1,
+      "r": 4
+    },
+    {
+      "id": "Wilderness Ranch Fire Protection District",
+      "x": 227.0188,
+      "y": 187.0687,
+      "group": "fire",
+      "degree": 3,
+      "r": 6.1962
+    },
+    {
+      "id": "National Wild Turkey Federation",
+      "x": 215.2807,
+      "y": 169.9652,
+      "group": "ngo",
+      "degree": 1,
+      "r": 4
+    },
+    {
+      "id": "United States Army",
+      "x": 271.719,
+      "y": 319.7997,
+      "group": "federal",
+      "degree": 1,
+      "r": 4
+    },
+    {
+      "id": "Northwest Youth Corps",
+      "x": 228.0694,
+      "y": 252.7678,
+      "group": "federal",
+      "degree": 0,
+      "r": 1
+    },
+    {
+      "id": "Bogus Basin Mountain Recreation Area",
+      "x": 180.8127,
+      "y": 299.6106,
+      "group": "ngo",
+      "degree": 1,
+      "r": 4
+    },
+    {
+      "id": "Ada Fire Adapted Communities",
+      "x": 290.1664,
+      "y": 166.5113,
+      "group": "other",
+      "degree": 2,
+      "r": 5.2426
+    },
+    {
+      "id": "Adams Soil and Water Conservation District",
+      "x": 323.6511,
+      "y": 273.7639,
+      "group": "local",
+      "degree": 1,
+      "r": 4
+    },
+    {
+      "id": "Idaho Fire Chiefs Association",
+      "x": 346.6259,
+      "y": 235.8787,
+      "group": "fire",
+      "degree": 1,
+      "r": 4
+    },
+    {
+      "id": "Idaho Wildlife Federation",
+      "x": 307.7789,
+      "y": 284.8095,
+      "group": "ngo",
+      "degree": 1,
+      "r": 4
+    },
+    {
+      "id": "Southern Idaho Timber Protective Association",
+      "x": 308.7919,
+      "y": 174.397,
+      "group": "ngo",
+      "degree": 3,
+      "r": 6.1962
+    },
+    {
+      "id": "Trout Unlimited",
+      "x": 337.452,
+      "y": 259.2272,
+      "group": "ngo",
+      "degree": 1,
+      "r": 4
+    },
+    {
+      "id": "Valley County Fire Working Group",
+      "x": 314.3145,
+      "y": 190.3401,
+      "group": "local",
+      "degree": 2,
+      "r": 5.2426
+    },
+    {
+      "id": "The Keystone Concept, LLC",
+      "x": 197.4198,
+      "y": 225.3797,
+      "group": "other",
+      "degree": 0,
+      "r": 1
+    },
+    {
+      "id": "Idaho Forest Restoration Partnership",
+      "x": 138.036,
+      "y": 209.8816,
+      "group": "other",
+      "degree": 1,
+      "r": 4
+    },
+    {
+      "id": "United States Congress",
+      "x": 134.5624,
+      "y": 233.9807,
+      "group": "federal",
+      "degree": 1,
+      "r": 4
+    },
+    {
+      "id": "The Nature Conservancy",
+      "x": 256.4316,
+      "y": 161.0632,
+      "group": "ngo",
+      "degree": 2,
+      "r": 5.2426
+    },
+    {
+      "id": "Thorn Creek Volunteer Fire Department",
+      "x": 221.7756,
+      "y": 158.6193,
+      "group": "fire",
+      "degree": 1,
+      "r": 4
+    },
+    {
+      "id": "City of Centerville Volunteer Fire Department",
+      "x": 190.0277,
+      "y": 107.324,
+      "group": "fire",
+      "degree": 1,
+      "r": 4
+    },
+    {
+      "id": "City of Idaho City Volunteer Fire District",
+      "x": 171.8358,
+      "y": 124.5199,
+      "group": "fire",
+      "degree": 1,
+      "r": 4
+    },
+    {
+      "id": "Treasure Valley Canopy Network",
+      "x": 231.3758,
+      "y": 341.6755,
+      "group": "ngo",
+      "degree": 0,
+      "r": 1
+    },
+    {
+      "id": "Ada County",
+      "x": 214.2673,
+      "y": 380.7335,
+      "group": "local",
+      "degree": 1,
+      "r": 4
+    },
+    {
+      "id": "Southwest Idaho Resource Conservation and Development",
+      "x": 244.6376,
+      "y": 383.6126,
+      "group": "ngo",
+      "degree": 1,
+      "r": 4
+    },
+    {
+      "id": "United State Department of Agriculture",
+      "x": 243.4713,
+      "y": 117.3262,
+      "group": "federal",
+      "degree": 0,
+      "r": 1
+    },
+    {
+      "id": "Great Basin Institute",
+      "x": 228.1683,
+      "y": 129.5969,
+      "group": "other",
+      "degree": 2,
+      "r": 5.2426
+    },
+    {
+      "id": "Job Corps",
+      "x": 239.4671,
+      "y": 65.7492,
+      "group": "federal",
+      "degree": 1,
+      "r": 4
+    },
+    {
+      "id": "Boise Interagency Dispatch Center",
+      "x": 295.083,
+      "y": 125.7491,
+      "group": "fire",
+      "degree": 1,
+      "r": 4
+    },
+    {
+      "id": "Idaho Conservation Corps",
+      "x": 279.0936,
+      "y": 117.9909,
+      "group": "federal",
+      "degree": 1,
+      "r": 4
+    },
+    {
+      "id": "Idaho Corps",
+      "x": 310.2587,
+      "y": 136.5022,
+      "group": "federal",
+      "degree": 1,
+      "r": 4
+    },
+    {
+      "id": "National Park Service",
+      "x": 260.9013,
+      "y": 120.0747,
+      "group": "federal",
+      "degree": 1,
+      "r": 4
+    },
+    {
+      "id": "Wilderness Ranch Homeowners' Association",
+      "x": 166.8675,
+      "y": 162.0948,
+      "group": "ngo",
+      "degree": 1,
+      "r": 4
+    },
+    {
+      "id": "Wildfire Prevention Associates",
+      "x": 330.8555,
+      "y": 163.8381,
+      "group": "ngo",
+      "degree": 0,
+      "r": 1
+    },
+    {
+      "id": "Cascade Rural Fire Department",
+      "x": 363.4942,
+      "y": 116.309,
+      "group": "fire",
+      "degree": 1,
+      "r": 4
+    },
+    {
+      "id": "Donnelly Rural Fire District",
+      "x": 379.0215,
+      "y": 132.7322,
+      "group": "fire",
+      "degree": 1,
+      "r": 4
+    },
+    {
+      "id": "McCall Fire Protection District",
+      "x": 387.4001,
+      "y": 153.1453,
+      "group": "local",
+      "degree": 1,
+      "r": 4
+    }
+  ],
+  "directed": [true]
+}

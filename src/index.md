@@ -4,7 +4,7 @@ toc: false
 
 ```js
 //import {fisheyeForce, walleyeForce} from "./components/aux_functions.js"
-const orgnet = FileAttachment("data/orgnet.json").json();
+const orgnet = FileAttachment("data/id_net_final.json").json();
 ```
 
 ```js
@@ -25,18 +25,32 @@ let node_data = orgnet.vertices.map((d) => {
 ```
 
 ```js
-let force_param = ({
-  kf: 150, // ticks to simulate
-  link_dist: 10, // length of edges (unclear how this works)
+/*let force_param = ({
+  kf: 1500, // ticks to simulate
+  link_dist: 20, // length of edges (unclear how this works)
   strength: -50, // larger negative values repel nodes more
-  fisheye_strength: 0.01, // fisheye effect strength
+  fisheye_strength: 1, // fisheye effect strength
   fisheye_radius: 60, // radius of circle within which to apply fisheye effect
-  max_radius: 270 // maximum distance from center
+  max_radius: 300 // maximum distance from center
+})*/
+
+let force_param = ({
+  kf: 1500, // ticks to simulate
+  link_dist: 25, // length of edges (unclear how this works)
+  strength: -60, // larger negative values repel nodes more
+  fisheye_strength: 100, // fisheye effect strength
+  fisheye_radius: 100, // radius of circle within which to apply fisheye effect
+  max_radius: 200 // maximum distance from center
 })
 
 let chart_param = ({
-  edge_color: "white",
-  select_color: "white",
+  edge_color: "black",
+  //edge_width: 0.2,
+  edge_width: 1,
+  select_color: "black",
+  select_width: 3,
+  node_stroke_color: "black",
+  node_stroke_width: 1,
   width: 600,
   height: 600,
   margin: {
@@ -59,7 +73,7 @@ const draw_nodes = (svg, node_data, edge_data, w_r, w_l, sim, tooltip) => {
     "federal": "#2ca02c", // green
     "state": "#1f77b4", // blue
     "local": "#FF0FF5", // pink
-    "fire district": "#d62728", // red
+    "fire": "#d62728", // red
     "ngo": "#9467bd", // purple
     "other": "#8c564b" // brown
   };
@@ -77,7 +91,7 @@ const draw_nodes = (svg, node_data, edge_data, w_r, w_l, sim, tooltip) => {
   let edge = null;
 
   // Plot edges
-  if (edge_data) {
+  if (edge_data) { // show edges or not?
     edge = svg
       .selectAll(".edge")
       .data(edge_data)
@@ -88,8 +102,8 @@ const draw_nodes = (svg, node_data, edge_data, w_r, w_l, sim, tooltip) => {
       .attr("y1", (d) => d.source.y)
       .attr("x2", (d) => d.target.x)
       .attr("y2", (d) => d.target.y)
-      .style("stroke", w_l ? "#bbb" : "none")
-      .style("stroke-width", 0.1);
+      .style("stroke", w_l ? chart_param.edge_color : "none")
+      .style("stroke-width", chart_param.edge_width);
   }
 
   // Plot nodes
@@ -103,13 +117,13 @@ const draw_nodes = (svg, node_data, edge_data, w_r, w_l, sim, tooltip) => {
     .attr("cy", (d) => d.y)
     .attr("r", (d) => (w_r ? d.r + 2 : 8))
     .style("fill", (d) => colorMap[d.g] || "#7f7f7f")
+    .style("stroke", chart_param.node_stroke_color)
+    .style("stroke-width", chart_param.node_stroke_width)
     .on("mouseover", (event, d) => {
       const prototypeData = Object.getPrototypeOf(d);
       selected_node = prototypeData.id;
       selected_turf = filterLookupTable(prototypeData.id);
-      console.log(prototypeData.id);
       leafletMap(turf, selected_turf); // Update the Leaflet map
-      //updateMapBasedOnSelection(prototypeData.id, 600);
       highlight_node_and_edges(event, d);
       tooltip.style("visibility", "visible").html(`
           ${d.id}<br>
@@ -129,8 +143,8 @@ const draw_nodes = (svg, node_data, edge_data, w_r, w_l, sim, tooltip) => {
 
     // Highlight the hovered node by adding a black border
     d3.select(event.currentTarget)
-      .style("stroke", "white")
-      .style("stroke-width", 2);
+      .style("stroke", chart_param.select_color)
+      .style("stroke-width", chart_param.select_width);
 
     // Create a set to hold the hovered node and its connected neighbors
     const connected_nodes = new Set([d]);
@@ -148,8 +162,8 @@ const draw_nodes = (svg, node_data, edge_data, w_r, w_l, sim, tooltip) => {
     // Find and highlight connected edges and neighbor nodes
     edge
       .filter((e) => e.source === d || e.target === d)
-      .style("stroke", "white")
-      .style("stroke-width", 1)
+      .style("stroke", chart_param.edge_color)
+      .style("stroke-width", chart_param.select_width)
       .each((e) => {
         if (e.source && e.source !== d) {
           connected_nodes.add(e.source);
@@ -164,8 +178,8 @@ const draw_nodes = (svg, node_data, edge_data, w_r, w_l, sim, tooltip) => {
     // Highlight neighbor nodes by adding a black border
     node
       .filter((n) => connected_nodes.has(n) && n !== d)
-      .style("stroke", "white")
-      .style("stroke-width", 2);
+      .style("stroke", chart_param.select_color)
+      .style("stroke-width", chart_param.select_width);
 
     // Format the tooltip content to show the group counts
     const tooltip_content = `
@@ -189,11 +203,13 @@ const draw_nodes = (svg, node_data, edge_data, w_r, w_l, sim, tooltip) => {
   function reset_selection() {
     node
       .style("fill", (d) => colorMap[d.g] || "#7f7f7f") // Reapply color based on group
-      .style("stroke", "none") // Remove border
+      //.style("stroke", "none") // Remove border
+      .style("stroke", chart_param.edge_color) // Remove border
+      .style("stroke-width", chart_param.edge_width)
       .attr("r", (d) => (w_r ? d.r + 2 : 8)); // Reset radius
     edge
-      .style("stroke", "#bbb")
-      .style("stroke-width", 0.1); // Reset edge style
+      .style("stroke", chart_param.edge_color)
+      .style("stroke-width", chart_param.edge_width); // Reset edge style
   }
 
   return [node, edge];
@@ -341,7 +357,8 @@ const lookupTable = await FileAttachment("data/orgturf.csv").csv(); // Load the 
 ```
 
 ```js
-const turf = FileAttachment("data/turf.topojson").json();
+//const turf = FileAttachment("data/co_turf.topojson").json();
+const turf = FileAttachment("data/id_turf.topojson").json();
 ```
 
 ```js
@@ -380,7 +397,8 @@ function leafletMap(turf, selected_turf_ids = []) {
         keyboard: false         // Disable keyboard controls
       }
     )
-    .setView([39.8, -105.4], 8); // Latitude and longitude for Colorado, zoom level 7
+  //.setView([39.8, -105.4], 8); // Latitude and longitude for Colorado, zoom level 7
+  .setView( [44.23, -115.86], 8);
 
   // Add a tile layer to the map (OpenStreetMap)
   L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
@@ -390,13 +408,11 @@ function leafletMap(turf, selected_turf_ids = []) {
   // Convert TopoJSON to GeoJSON for fireshed polygons
   const turf_features = topojson.feature(turf, turf.objects.fireshed);
 
-  console.log(selected_turf_ids);
-
   // Filter the GeoJSON based on the selected subfs_ids
   const filtered_turf_features = {
     ...turf_features,
     features: turf_features.features.filter(feature =>
-      selected_turf_ids.includes(feature.properties.subfs_id))
+      selected_turf_ids.includes(String(feature.properties.sfs_id))) // Convert subfs_id to string
   };
 
   // Clear any existing layers on the map
@@ -417,24 +433,16 @@ function leafletMap(turf, selected_turf_ids = []) {
     }
   }).addTo(map);
 
-  // Fit the map to the bounds of the filtered polygons (if any are selected)
-  if (filtered_turf_features.features.length > 0) {
-    map.fitBounds(geoJsonLayer.getBounds(), { padding: [5, 5] });
-  }
 }
 ```
 
 <div class="hero">
-  <h1>Fisheye Diagram</h1>
+  <h2>Soutwest Idaho Wildfire Governance Network</h2>
 </div>
 
-This figure below shows organizational connections within the **Colorado Front Range Landscape**.
-Organizations are sized based on their number of neighbors and colored by group.
-The network layout is controlled using "ball-and-spring forcing" that
-repels nodes at the same time that network ties keep connected organizations close.
-The layout includes additional two custom effects that push apart tighttly connected
-organizations in the core while setting a maximum radius for organizations on the periphery.
-Mousing over nodes highlights organizational neighbors and tallies those neighbors by group.
+This figure below shows organizational connections within the **Southwest Idaho WCS Landscape**.
+Organizations are sized based on their number of neighbors and colored by group in the network diagram on the left.
+The map on the right shows subfiresheds withe WCS landscape.
 
 <div class="grid grid-cols-2">
   <div class="card" id="network-card" style="position: relative; padding-left: 50px">
@@ -445,6 +453,12 @@ Mousing over nodes highlights organizational neighbors and tallies those neighbo
   </div>
 </div>
 <div class="legend" id="network-legend"></div>
+<div>
+  <button id="export-button">Export Network Graph as PNG</button>
+  <svg id="network-graph" width="800" height="600">
+    <!-- Your D3.js or other network graph code -->
+  </svg>
+</div>
 
 
 <style>
@@ -506,6 +520,7 @@ Mousing over nodes highlights organizational neighbors and tallies those neighbo
 .card {
   position: relative;
   padding-left: 0px;
+  background-color: white;
 }
 
 /* Apply the custom font stack */
